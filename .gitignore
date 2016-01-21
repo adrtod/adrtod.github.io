@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-metadata
+.Rproj.user
+.Rhistory
+/*.html
+!/googlee8a9d34705d254e7.html
+*~

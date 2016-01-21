@@ -1,9 +1,3 @@
-Adrien Todeschini
+[Adrien Todeschini](https://adrtod.github.io)
 ================
-[My website](http://adrien.tspace.fr)
-
-Projects
---------
-[Biips](https://alea.bordeaux.inria.fr/biips)
-
-[rchallenge](rchallenge/)
+My personal website

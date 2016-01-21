@@ -1,0 +1,83 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        Copyright <i class="fa fa-copyright"></i> {{ site.copyright_year }} 
+        <ul class="contact-list">
+          <li>{{ site.author }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% if site.phone %}
+          <li>
+            {{ site.phone }}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list fa-150">
+          <!--{% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}-->
+
+          <li>
+            {% if site.github_username %}
+            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i></a>
+            {% endif %}
+            {% if site.bitbucket_username %}
+            <a href="https://bibucket.org/{{ site.bitbucket_username }}"><i class="fa fa-bitbucket"></i></a>
+            {% endif %}
+            {% if site.googleplus_url %}
+            <a href="{{ site.googleplus_url }}"><i class="fa fa-google-plus-square"></i></a>
+            {% endif %}
+          </li>
+          <li>
+            {% if site.linkedin_url %}
+            <a href="{{ site.linkedin_url }}"><i class="fa fa-linkedin-square"></i></a>
+            {% endif %}
+            {% if site.researchgate_url %}
+            <a href="{{ site.researchgate_url }}"><i class="ai ai-researchgate-square"></i></a>
+            {% endif %}
+            {% if site.googlescholar_url %}
+            <a href="{{ site.googlescholar_url }}"><i class="ai ai-google-scholar-square"></i></a>
+            {% endif %}
+          </li>
+        </ul>
+        
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="contact-list">
+          <li>{{ site.adress }}</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <a href="http://www.inria.fr/centre/bordeaux"><img alt="Inria Bordeaux" src="images/inria_95px.png" /></a>
+      </div>
+      <div class="footer-col footer-col-2">
+        <a href="http://www.math.u-bordeaux.fr/"><img alt="Institut de Mathématiques de Bordeaux" src="images/imb_95px.png" /></a>
+      </div>
+      <div class="footer-col footer-col-3">
+        <a href="http://www.u-bordeaux.fr/"><img alt="Université de Bordeaux" border="0" src="images/univbdx_95px.gif" /></a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+</footer>

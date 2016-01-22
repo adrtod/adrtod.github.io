@@ -19,5 +19,5 @@ It makes use of the PROPACK algorithm for handling large scale matrices.
 
 ## Download
 
-* [HASI v1.0](files/HASI_v1.0_2013-12-05.zip) (2013-12-05)  
+* [HASI v1.0](/doc/HASI_v1.0_2013-12-05.zip) (2013-12-05)  
 

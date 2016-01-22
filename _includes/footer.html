@@ -6,7 +6,9 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        {% if site.copyright_year %}
         Copyright <i class="fa fa-copyright"></i> {{ site.copyright_year }} 
+        {% endif %}
         <ul class="contact-list">
           <li>{{ site.author }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -19,39 +21,27 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list fa-150">
-          <!--{% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}-->
-
-          <li>
-            {% if site.github_username %}
-            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i></a>
+        <ul class="social-media-list">
+          <li class="fs-150">
+            {% if site.github_url %}
+            {% include fa-url.html icon="github" url=site.github_url %}
             {% endif %}
-            {% if site.bitbucket_username %}
-            <a href="https://bibucket.org/{{ site.bitbucket_username }}"><i class="fa fa-bitbucket"></i></a>
+            {% if site.bitbucket_url %}
+            {% include fa-url.html icon="bitbucket" url=site.bitbucket_url %}
             {% endif %}
             {% if site.googleplus_url %}
-            <a href="{{ site.googleplus_url }}"><i class="fa my-fa-google-plus-square"></i></a>
+            {% include my-fa-url.html icon="google-plus-square" url=site.googleplus_url %}
             {% endif %}
           </li>
-          <li>
+          <li class="fs-150">
             {% if site.linkedin_url %}
-            <a href="{{ site.linkedin_url }}"><i class="fa my-fa-linkedin-square"></i></a>
+            {% include my-fa-url.html icon="linkedin-square" url=site.linkedin_url %}
             {% endif %}
             {% if site.researchgate_url %}
-            <a href="{{ site.researchgate_url }}"><i class="ai ai-researchgate-square"></i></a>
+            {% include ai-url.html icon="researchgate-square" url=site.researchgate_url %}
             {% endif %}
             {% if site.googlescholar_url %}
-            <a href="{{ site.googlescholar_url }}"><i class="ai ai-google-scholar-square"></i></a>
+            {% include ai-url.html icon="google-scholar-square" url=site.googlescholar_url %}
             {% endif %}
           </li>
         </ul>
@@ -67,13 +57,13 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <a href="http://www.inria.fr/centre/bordeaux"><img alt="Inria Bordeaux" src="images/inria_95px.png" /></a>
+        {% include img-url.html obj=site.inria %}
       </div>
       <div class="footer-col footer-col-2">
-        <a href="http://www.math.u-bordeaux.fr/"><img alt="Institut de Mathématiques de Bordeaux" src="images/imb_95px.png" /></a>
+        {% include img-url.html obj=site.imb %}
       </div>
       <div class="footer-col footer-col-3">
-        <a href="http://www.u-bordeaux.fr/"><img alt="Université de Bordeaux" border="0" src="images/univbdx_95px.gif" /></a>
+        {% include img-url.html obj=site.univbdx %}
       </div>
     </div>
   </div>

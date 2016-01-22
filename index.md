@@ -1,8 +1,11 @@
 ---
-title: Home
+title: Adrien Todeschini
 layout: default
 navpos: 1
+navname: Home
 ---
+
+<img src="/img/adrien_bw_rnd_180px.png" style="float:right;height:120px;">
 
 News
 ====
@@ -12,8 +15,6 @@ News
 - 11 Dec. 2014: **Preprint of [Biips](publications.html) paper available!**
 - 25 Nov. 2014: **New release of [Biips software](https://alea.bordeaux.inria.fr/biips) available!**
 
-
-<img src="images/adrien_bw_rnd_180px.png" style="float:right;height:120px;">
 
 Short bio
 =========

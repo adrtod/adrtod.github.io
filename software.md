@@ -5,7 +5,7 @@ navpos: 4
 
 # Biips
 
-![https://alea.bordeaux.inria.fr/biips](images/biips_100x86.png)
+![https://alea.bordeaux.inria.fr/biips](/img/biips_100x86.png)
 
 [**B**ayesian **i**nference with **i**nteracting **p**article **s**ystems](https://alea.bordeaux.inria.fr/biips)
 

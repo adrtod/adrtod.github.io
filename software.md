@@ -11,7 +11,7 @@ navpos: 4
 
 # HASI
 
-[**H**ierarchical **A**daptive **S**oft **I**mpute](hasi.html)
+[**H**ierarchical **A**daptive **S**oft **I**mpute](https://github.com/adrtod/hasi/)
 
 # rchallenge
 

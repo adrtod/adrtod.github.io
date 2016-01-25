@@ -2,7 +2,12 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <span class="site-title">
+      <a class="main" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+      {% if site.tagline %}
+      <span class="tagline">&middot; {{ site.tagline }}</span>
+      {% endif %}
+    </span>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">

@@ -7,9 +7,9 @@
 
 # Site settings
 title: Adrien Todeschini
-email: adrien.todeschini [at] inria.fr
 description: > # this means to ignore newlines until "baseurl:"
-  PhD student in Statistical Machine Learning
+  Adrien Todeschini's personal website.
+  PhD student in Statistical Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://adrien.tspace.fr" # the base hostname & protocol for your site
 #github_username:  adrtod
@@ -31,17 +31,22 @@ defaults:
 
 # Custom variables
 #########################
-author: Adrien Todeschini
-copyright_year: 2013
-adress: Inria Bordeaux – Sud-Ouest <br/> 200 avenue de la Vieille Tour <br/> 33405 Talence Cedex, France
-phone: +33 5 2457 4160
+copyright: true
 ganalytics_id: UA-45407741-5
-github_url:  https://github.com/adrtod/
-bitbucket_url:  https://bitbucket.org/adrtod/
-linkedin_url:  https://fr.linkedin.com/in/adrientodeschini/en
-googleplus_url:  http://google.com/+AdrienTodeschini
-researchgate_url:  https://www.researchgate.net/profile/Adrien_Todeschini
-googlescholar_url:  https://scholar.google.fr/citations?user=ivSX6d3wzKIC&hl=en
+tagline: PhD student in Statistical Machine Learning
+lang: en
+
+author: 
+  name: Adrien Todeschini
+  email: adrien.todeschini [at] inria.fr
+  adress: Inria Bordeaux – Sud-Ouest <br/> 200 avenue de la Vieille Tour <br/> 33405 Talence Cedex, France
+  phone: +33 5 2457 4160
+  github_url:  https://github.com/adrtod/
+  bitbucket_url:  https://bitbucket.org/adrtod/
+  linkedin_url:  https://fr.linkedin.com/in/adrientodeschini/en
+  googleplus_url:  http://google.com/+AdrienTodeschini
+  researchgate_url:  https://www.researchgate.net/profile/Adrien_Todeschini
+  googlescholar_url:  https://scholar.google.fr/citations?user=ivSX6d3wzKIC&hl=en
 
 # institutions
 inria:

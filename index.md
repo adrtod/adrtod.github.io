@@ -1,11 +1,10 @@
 ---
-title: Adrien Todeschini
+title: Home
 layout: default
 navpos: 1
-navname: Home
 ---
 
-<img src="/img/adrien_bw_rnd_180px.png" style="float:right;height:120px;">
+<img src="https://github.com/adrtod.png" style="float:right;height:120px;">
 
 News
 ====

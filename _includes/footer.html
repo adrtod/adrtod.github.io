@@ -2,19 +2,17 @@
 
   <div class="wrapper">
 
-    <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        {% if site.copyright_year %}
-        Copyright <i class="fa fa-copyright"></i> {{ site.copyright_year }} 
+        {% if site.copyright %}
+        Copyright <i class="fa fa-copyright"></i> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
         {% endif %}
         <ul class="contact-list">
-          <li>{{ site.author }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% if site.phone %}
+          <li>{{ site.author.name }}</li>
+          <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {% if site.author.phone %}
           <li>
-            {{ site.phone }}
+            {{ site.author.phone }}
           </li>
           {% endif %}
         </ul>
@@ -23,25 +21,25 @@
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           <li class="fs-150">
-            {% if site.github_url %}
-            {% include fa-url.html icon="github" url=site.github_url %}
+            {% if site.author.github_url %}
+            {% include fa-url.html icon="github" url=site.author.github_url %}
             {% endif %}
-            {% if site.bitbucket_url %}
-            {% include fa-url.html icon="bitbucket" url=site.bitbucket_url %}
+            {% if site.author.bitbucket_url %}
+            {% include fa-url.html icon="bitbucket" url=site.author.bitbucket_url %}
             {% endif %}
-            {% if site.googleplus_url %}
-            {% include my-fa-url.html icon="google-plus-square" url=site.googleplus_url %}
+            {% if site.author.googleplus_url %}
+            {% include my-fa-url.html icon="google-plus-square" url=site.author.googleplus_url %}
             {% endif %}
           </li>
           <li class="fs-150">
-            {% if site.linkedin_url %}
-            {% include my-fa-url.html icon="linkedin-square" url=site.linkedin_url %}
+            {% if site.author.linkedin_url %}
+            {% include my-fa-url.html icon="linkedin-square" url=site.author.linkedin_url %}
             {% endif %}
-            {% if site.researchgate_url %}
-            {% include ai-url.html icon="researchgate-square" url=site.researchgate_url %}
+            {% if site.author.researchgate_url %}
+            {% include ai-url.html icon="researchgate-square" url=site.author.researchgate_url %}
             {% endif %}
-            {% if site.googlescholar_url %}
-            {% include ai-url.html icon="google-scholar-square" url=site.googlescholar_url %}
+            {% if site.author.googlescholar_url %}
+            {% include ai-url.html icon="google-scholar-square" url=site.author.googlescholar_url %}
             {% endif %}
           </li>
         </ul>
@@ -50,7 +48,7 @@
 
       <div class="footer-col footer-col-3">
         <ul class="contact-list">
-          <li>{{ site.adress }}</li>
+          <li>{{ site.author.adress }}</li>
         </ul>
       </div>
     </div>

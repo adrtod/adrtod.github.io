@@ -4,6 +4,15 @@ title: Citations
 
 
 ```
+@Article{todeschini2016exchangeable,
+  Title                    = {Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities},
+  Author                   = {Todeschini, Adrien and Caron, Fran{\c{c}}ois},
+  Journal                  = {arXiv preprint arXiv:1602.02114},
+  Year                     = {2016}
+}
+```
+
+```
 @Article{todeschini2014biips,
   Title                    = {Biips: Software for Bayesian Inference with Interacting Particle Systems},
   Author                   = {Todeschini, Adrien and Caron, Fran{\c{c}}ois and Fuentes, Marc and Legrand, Pierrick and Del Moral, Pierre},

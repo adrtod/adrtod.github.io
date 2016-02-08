@@ -3,8 +3,9 @@ title: Publications
 navpos: 2
 ---
 
-# Submitted/in review
+# Preprints
 
+*   A. Todeschini, F. Caron. _[Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](http://arxiv.org/abs/1602.02114)_. _arXiv:1602.02114_, Feb. 2016. [[Paper](http://arxiv.org/pdf/1602.02114v1.pdf)][[BibTeX](citations.html)]
 *   A. Todeschini, F. Caron, M. Fuentes, P. Legrand, P. Del Moral. _[Biips: Software for Bayesian Inference with Interacting Particle Systems](http://arxiv.org/abs/1412.3779)_. _arXiv:1412.3779_, Dec. 2014. [[Paper](http://arxiv.org/pdf/1412.3779v1)][[Software](https://alea.bordeaux.inria.fr/biips/)][[BibTeX](citations.html)]
 
 # Peer reviewed international conference proceedings

@@ -13,7 +13,7 @@ News
 - 16 May 2015: Two [communications](communications.html) accepted at JdS 2015
 - 12 Mar. 2015: My application to [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2015/index.html) was received!
 - 11 Dec. 2014: Preprint of [Biips](publications.html) paper available!
-- 25 Nov. 2014: New release of [Biips software](https://alea.bordeaux.inria.fr/biips) available!
+- 25 Nov. 2014: New release of [Biips software](https://biips.github.io/) available!
 
 
 Short bio

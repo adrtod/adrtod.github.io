@@ -33,9 +33,10 @@ author:
   name: Adrien Todeschini
   email: adrien.todeschini [at] inria.fr
   adress: Inria Bordeaux – Sud-Ouest <br/> 200 avenue de la Vieille Tour <br/> 33405 Talence Cedex, France
-  phone: +33 5 2457 4160
+  #phone: +33 5 2457 4160
+  twitter_url:  https://twitter.com/adrtod/
   github_url:  https://github.com/adrtod/
-  bitbucket_url:  https://bitbucket.org/adrtod/
+  #bitbucket_url:  https://bitbucket.org/adrtod/
   linkedin_url:  https://fr.linkedin.com/in/adrientodeschini/en
   googleplus_url:  http://google.com/+AdrienTodeschini
   researchgate_url:  https://www.researchgate.net/profile/Adrien_Todeschini

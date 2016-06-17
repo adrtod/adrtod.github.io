@@ -27,7 +27,7 @@ I am a french PhD student in Statistics and Machine Learning [[CV](https://www.d
 
 My advisors are [François Caron](http://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](http://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
 
-From Nov. 2009 to Dec. 2012, I was a R&D engineer at INRIA Bordeaux in ALEA team.
+From Nov. 2009 to Dec. 2012, I was R&D engineer at INRIA Bordeaux in ALEA team.
 I completed my Master's degree in Mathematical Modeling at the french INSA engineering school.
 
 

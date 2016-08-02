@@ -5,6 +5,7 @@ navpos: 3
 
 # 2016
 
+*   Aug. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Jun. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 
 # 2015

@@ -12,7 +12,7 @@ _-- Page in french --_
     *   [Challenge](https://dl.dropboxusercontent.com/u/25867212/challenge_mimse2014.html)
 
 
-*   [**TPs d'Estimation bayésienne (M2)**](statbayes2014.html)
+*   [**TPs d'Estimation bayésienne (M2)**](bayes2014.html)
 
 
 # 2013-2014 : Univ. Bordeaux, Master [MIMSE](http://mimse.math.u-bordeaux.fr/) spé. 2, Licence MASS

@@ -26,7 +26,7 @@ navpos: 3
     Invited talk: _Biips: Software for Bayesian Inference with Interacting Particle Systems_ [[Slides](/doc/biips_bayespharma2015.pdf)][[Paper](http://arxiv.org/pdf/1412.3779v1)][[Software](https://biips.github.io/)]
 *   Apr. 2015, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Mar. 2015, Bordeaux, France, [**Groupe de Travail Proba-Stat**](http://www.math.u-bordeaux1.fr/~arichou/groupedetravail.html)  
-    Talk: _Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs_ [[Paper](publications.html)][[Matlab code](hasi.html)]
+    Talk: _Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs_ [[Paper](pub.html)][[Matlab code](https://github.com/adrtod/hasi/)]
 *   Jan. 2015, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 
 
@@ -40,12 +40,12 @@ navpos: 3
 *   Aug. 2014, Geneva, Switzerland, **[COMPSTAT 2014](http://compstat2014.org/)**  
     Invited talk: _Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods_ [[Slides](/doc/biips_compstat2014.pdf)][[Paper](http://arxiv.org/pdf/1412.3779v1)][[Software](https://biips.github.io/)]
 *   June 2014, Rennes, France, **[JdS 2014](http://jds2014.sfds.asso.fr/)**  
-    Talk: _[Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs](http://jds2014.sfds.asso.fr/prog/showabstract.php?id=235)_ [[Slides](/doc/TodeschiniCaronChavent_jds2014_slides.pdf)][[Paper](http://papersjds14.sfds.asso.fr/submission_235.pdf)][[Matlab code](hasi.html)]
+    Talk: _[Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs](http://jds2014.sfds.asso.fr/prog/showabstract.php?id=235)_ [[Slides](/doc/TodeschiniCaronChavent_jds2014_slides.pdf)][[Paper](http://papersjds14.sfds.asso.fr/submission_235.pdf)][[Matlab code](https://github.com/adrtod/hasi/)]
 *   May 2014, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Apr. 2014, Paris, France, **[Statlearn 2014](http://statlearn.sfds.asso.fr/)**  
-    Poster: _Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_ [[Paper](publications.html)][[Poster](/doc/TodeschiniCaronChavent_NIPS2013_poster.pdf)][[Matlab code](hasi.html)]
+    Poster: _Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_ [[Paper](pub.html)][[Poster](/doc/TodeschiniCaronChavent_NIPS2013_poster.pdf)][[Matlab code](https://github.com/adrtod/hasi/)]
 *   Jan. 2014, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics  
-    [**Computational Statistics Reading Group**](http://www.louisaslett.com/CompStatReadingGroup/). Talk: _Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_ [[Slides](/doc/Slides_lowrank_oxford.pdf)][[Paper](publications.html)][[Matlab code](hasi.html)]
+    [**Computational Statistics Reading Group**](http://www.louisaslett.com/CompStatReadingGroup/). Talk: _Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_ [[Slides](/doc/Slides_lowrank_oxford.pdf)][[Paper](pub.html)][[Matlab code](https://github.com/adrtod/hasi/)]
 *   Jan. 2014, Chamonix-Mont-Blanc, France, [**MCMSki IV**](http://www.pages.drexel.edu/~mwl25/mcmski/index.html)
     Invited talk: [_Recent Developments in Software for MCMC_](http://www.pages.drexel.edu/~mwl25/mcmski/program.html#inv9) [[Slides](/doc/biips_mcmski.pdf)]
     Poster: [_Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods_](http://mcmskabs.wordpress.com/2013/11/18/poster-abstract-2/) [[Poster](/doc/biips-poster-mcmski.pdf)][[Software](https://biips.github.io/)]
@@ -54,7 +54,7 @@ navpos: 3
 # 2013
 
 *   Dec. 2013, Lake Tahoe, USA, [**NIPS 2013**](http://nips.cc/Conferences/2013/) + [**Large Scale Matrix Analysis and Inference Workshop**](http://stanford.edu/~rezab/nips2013workshop/)
-    Poster: [_Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_](http://nips.cc/Conferences/2013/Program/event.php?ID=3829) [[Paper](publications.html)][[Poster](/doc/TodeschiniCaronChavent_NIPS2013_poster.pdf)][[Matlab code](hasi.html)]
+    Poster: [_Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms_](http://nips.cc/Conferences/2013/Program/event.php?ID=3829) [[Paper](pub.html)][[Poster](/doc/TodeschiniCaronChavent_NIPS2013_poster.pdf)][[Matlab code](https://github.com/adrtod/hasi/)]
 *   Oct. 2013, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Aug. 2013, Aussois, France, [**Rencontres des Jeunes Statisticiens**](http://rencontres-jeunes-statisticiens.sfds.asso.fr/)  
     Talk: _Bayesian Adaptive Spectral Regularization Algorithms for Low Rank Matrix Completion_ [[Slides](/doc/TODESCHINI_SMCMESF_Oct12.pdf)]

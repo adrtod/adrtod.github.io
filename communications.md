@@ -1,5 +1,6 @@
 ---
 title: Communications & visits
+navname: com
 navpos: 3
 ---
 

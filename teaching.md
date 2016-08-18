@@ -1,5 +1,6 @@
 ---
 title: Teaching
+navname: teach
 navpos: 5
 ---
 

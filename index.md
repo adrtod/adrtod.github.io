@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+navname: home
 navpos: 1
 ---
 

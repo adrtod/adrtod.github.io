@@ -1,5 +1,6 @@
 ---
 title: Publications
+navname: pub
 navpos: 2
 ---
 

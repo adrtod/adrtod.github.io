@@ -6,7 +6,7 @@ title: Estimation bayésienne
 *   Volume horaire 8h
 *   Cours assuré par Pr. Giovannelli.
 *   Travaux pratiques sous [RStudio](http://www.rstudio.com/)
-*   Exemple de script compte-rendu au format [R Markdown](http://rmarkdown.rstudio.com/) [[script](https://www.dropbox.com/s/iuz4hbwlrg10nv7/r_notebook.R?dl=1)][[pdf](https://www.dropbox.com/s/vi3252o3ngzs83q/r_notebook.pdf?dl=1)][[html](https://dl.dropboxusercontent.com/u/25867212/r_notebook.html)]
+*   Exemple de script compte-rendu au format [R Markdown](http://rmarkdown.rstudio.com/) [[script](https://www.dropbox.com/s/iuz4hbwlrg10nv7/r_notebook.R?dl=1)][[pdf](https://www.dropbox.com/s/vi3252o3ngzs83q/r_notebook.pdf?dl=1)][[html](r_notebook.html)]
 
 Séances 2014-2015, 1er semestre :
 

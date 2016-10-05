@@ -3,7 +3,7 @@ _site
 .jekyll-metadata
 .Rproj.user
 .Rhistory
-/*.html
+#/*.html
 !/googlee8a9d34705d254e7.html
 *~
 .bundle/

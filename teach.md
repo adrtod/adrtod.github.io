@@ -9,7 +9,7 @@ _-- Page in french --_
 # 2014-2015 : Univ. Bordeaux, Master 2 [MIMSE](http://mimse.math.u-bordeaux.fr/) spé. 2
 
 *   [**Apprentissage automatique (M2)**](ml2014.html)
-    *   [Challenge](challenge_mimse2014.html)
+    *   [Challenge](https://adrtod.github.io/challenge-mimse2014/challenge-mimse2014/)
 
 
 *   [**TPs d'Estimation bayésienne (M2)**](bayes2014.html)

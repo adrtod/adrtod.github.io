@@ -9,8 +9,8 @@ navpos: 1
 
 News
 ====
+- 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](http://cran.r-project.org/web/packages/rchallenge/)
 - 8 Feb. 2016: **New preprint on [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](http://arxiv.org/abs/1602.02114)**
-- 26 Nov. 2015: [rchallenge](https://adrtod.github.io/rchallenge/) v1.1.1 is now available on [CRAN](http://cran.r-project.org/web/packages/rchallenge/)
 - 16 May 2015: Two [communications](com.html) accepted at JdS 2015
 - 12 Mar. 2015: My application to [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2015/index.html) was received!
 - 11 Dec. 2014: Preprint of [Biips](pub.html) paper available!

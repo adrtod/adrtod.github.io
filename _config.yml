@@ -9,7 +9,7 @@
 title: Adrien Todeschini
 description: > # this means to ignore newlines until "baseurl:"
   Adrien Todeschini's personal website.
-  PhD student in Statistical Machine Learning.
+  PhD in Statistical Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://adrien.tspace.fr" # the base hostname & protocol for your site
 
@@ -26,13 +26,13 @@ defaults:
 #########################
 copyright: true
 ganalytics_id: UA-45407741-5
-tagline: PhD candidate in Statistical Machine Learning
+tagline: PhD in Statistical Machine Learning
 lang: en
 
 author: 
   name: Adrien Todeschini
   email: adrien.todeschini [at] gmail.com
-  adress: Inria Bordeaux – Sud-Ouest <br/> 200 avenue de la Vieille Tour <br/> 33405 Talence Cedex, France
+  adress: Institut de Mathématiques de Bordeaux UMR 5251 <br/> Université de Bordeaux <br/> 351 Cours de la Libération <br/> 33405 Talence, France
   #phone: +33 5 2457 4160
   twitter_url:  https://twitter.com/adrtod/
   github_url:  https://github.com/adrtod/

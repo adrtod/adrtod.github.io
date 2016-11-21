@@ -9,6 +9,7 @@ navpos: 1
 
 News
 ====
+- 10 Nov. 2016: I defended my PhD thesis entitled "Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks"
 - 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](http://cran.r-project.org/web/packages/rchallenge/)
 - 8 Feb. 2016: **New preprint on [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](http://arxiv.org/abs/1602.02114)**
 - 16 May 2015: Two [communications](com.html) accepted at JdS 2015
@@ -20,15 +21,15 @@ News
 Short bio
 =========
 
-I am a french PhD student in Statistics and Machine Learning [[CV](https://www.dropbox.com/s/6wq4b2qswibamdh/CV_AdrienTodeschini_2016.pdf?dl=1)] at
+I completed my PhD in Statistics and Machine Learning [[CV](https://www.dropbox.com/s/6wq4b2qswibamdh/CV_AdrienTodeschini_2016.pdf?dl=1)] at
 
 - [INRIA Bordeaux - Sud-Ouest](http://www.inria.fr/centre/bordeaux), in [ALEA](http://alea.bordeaux.inria.fr/) and [CQFD](http://www.inria.fr/en/teams/cqfd) teams
 - [Institut de Mathématiques de Bordeaux](http://www.math.u-bordeaux.fr/) (IMB), CNRS UMR 5251
 - [Université de Bordeaux](http://www.u-bordeaux.fr/)
 
-My advisors are [François Caron](http://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](http://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
+My advisors were [François Caron](http://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](http://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
 
-From Nov. 2009 to Dec. 2012, I was R&D engineer at INRIA Bordeaux in ALEA team.
+From Nov. 2009 to Jun. 2012, I was R&D engineer at INRIA Bordeaux in ALEA team.
 I completed my Master's degree in Mathematical Modeling at the french INSA engineering school.
 
 
@@ -41,8 +42,8 @@ Research interests
 * Recommender systems, collaborative filtering
 * Monte Carlo methods: MCMC, SMC
 
-I co-organize the [Statistical Machine Learning Reading Group](http://www.math.u-bordeaux.fr/~machaven/smiling/) in Bordeaux.
+I co-organized the [Statistical Machine Learning Reading Group](http://www.math.u-bordeaux.fr/~machaven/smiling/) in Bordeaux.
 
-I am member of the ANR project [BNPSI](https://project.inria.fr/bnpsi/).
+I was member of the ANR project [BNPSI](https://project.inria.fr/bnpsi/).
 
 Reviewer: [The Journal of Statistical Software](http://www.jstatsoft.org/), [EUSIPCO](http://www.eusipco2015.org/), [IEEE Transactions on Image Processing](http://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [AISTATS2016](http://www.aistats.org/)

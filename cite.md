@@ -12,7 +12,7 @@ title: Citations
 }
 
 @Article{todeschini2014biips,
-  Title                    = {Biips: Software for Bayesian Inference with Interacting Particle Systems},
+  Title                    = {Biips: Software for {B}ayesian Inference with Interacting Particle Systems},
   Author                   = {Todeschini, Adrien and Caron, Fran{\c{c}}ois and Fuentes, Marc and Legrand, Pierrick and Del Moral, Pierre},
   Journal                  = {arXiv preprint arXiv:1412.3779},
   Year                     = {2014}

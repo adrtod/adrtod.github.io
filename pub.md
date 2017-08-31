@@ -4,6 +4,12 @@ navname: pub
 navpos: 2
 ---
 
+# Ph.D. Thesis
+
+* A. Todeschini (2016).
+Probabilistic and Bayesian nonparametric approaches for recommender systems and networks.
+[[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
+
 # Preprints
 
 * A. Todeschini and F. Caron (2016). 

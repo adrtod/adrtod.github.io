@@ -6,6 +6,8 @@ navpos: 3
 
 # 2016
 
+*   Nov. 2016, Bordeaux, France, PhD defense
+    Talk: _Probabilistic and Bayesian nonparametric approaches for recommender systems and networks_ [[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
 *   Aug. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Jun. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 

@@ -25,6 +25,7 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{% if my_page.navname %}/{{ my_page.navname }}{% else %}{{ my_page.title }}{% endif %}</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link" href="{{ author.cv_url }}">/cv</a>
       </div>
     </nav>
 

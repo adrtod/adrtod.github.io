@@ -5,7 +5,6 @@ navname: home
 navpos: 1
 ---
 
-<img src="https://github.com/adrtod.png" style="float:right;height:120px;">
 
 News
 ====
@@ -17,6 +16,8 @@ News
 - 11 Dec. 2014: Preprint of [Biips](pub.html) paper available!
 - 25 Nov. 2014: New release of [Biips software](https://biips.github.io/) available!
 
+
+<img src="https://github.com/adrtod.png" style="float:right;height:120px;">
 
 Short bio
 =========

@@ -11,7 +11,6 @@ title: Citations
   Year                     = {2016}
 }
 
-
 @Article{todeschini2016exchangeable,
   Title                    = {Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities},
   Author                   = {Todeschini, Adrien and Miscouridou, Xenia and Caron, Fran{\c{c}}ois},

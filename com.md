@@ -6,7 +6,7 @@ navpos: 3
 
 # 2016
 
-*   Nov. 2016, Bordeaux, France, PhD defense
+*   Nov. 2016, Bordeaux, France, PhD defense  
     Talk: _Probabilistic and Bayesian nonparametric approaches for recommender systems and networks_   [[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
 *   Aug. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Jun. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
@@ -19,7 +19,7 @@ navpos: 3
     Talk: _Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance_
 *   July 2015, Tübingen, Germany, Attending [**MLSS**](http://mlss.tuebingen.mpg.de/2015/index.html)  
     Poster: _A Low-rank Bayesian Nonparametric Model for Binary Matrices_ [[Poster](/doc/mlss_poster.pdf)]
-*   June 2015, Grenoble, France,  [**Quatrièmes Rencontres R**](http://r2015-grenoble.sciencesconf.org/)  
+*   June 2015, Grenoble, France, [**Quatrièmes Rencontres R**](http://r2015-grenoble.sciencesconf.org/)  
     Lightning talk ([R. Genuer](http://robin.genuer.fr/)): _[Compétitions d'apprentissage automatique avec le package rchallenge](http://r2015-grenoble.sciencesconf.org/66887)_ [[Paper](http://r2015-grenoble.sciencesconf.org/66887/document)][[R code](http://adrtod.github.io/rchallenge/)]
 *   June 2015, Lille, France, [**JdS 2015**](http://jds2015.sfds.asso.fr/)  
     Talk: [_Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance_](http://jds2015.sfds.asso.fr/prog/showabstract.php?id=209) [[Paper](http://papersjds15.sfds.asso.fr/submission_209.pdf)]  

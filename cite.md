@@ -4,10 +4,18 @@ title: Citations
 
 
 ~~~
+@PhdThesis{todeschini2016probabilistic,
+  Title                    = {Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks},
+  Author                   = {Adrien Todeschini},
+  School                   = {University of Bordeaux},
+  Year                     = {2016}
+}
+
+
 @Article{todeschini2016exchangeable,
   Title                    = {Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities},
-  Author                   = {Todeschini, Adrien and Caron, Fran{\c{c}}ois},
-  Journal                  = {arXiv preprint arXiv:1602.02114},
+  Author                   = {Todeschini, Adrien and Miscouridou, Xenia and Caron, Fran{\c{c}}ois},
+  Journal                  = {arXiv preprint arXiv:1602.02114v2},
   Year                     = {2016}
 }
 

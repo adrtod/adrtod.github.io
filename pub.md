@@ -7,7 +7,8 @@ navpos: 2
 # Ph.D. Thesis
 
 * A. Todeschini (2016).
-Probabilistic and Bayesian nonparametric approaches for recommender systems and networks.
+Probabilistic and Bayesian nonparametric approaches for recommender systems and networks. 
+_University of Bordeaux_.
 [[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
 
 # Preprints
@@ -24,7 +25,7 @@ _arXiv preprint arXiv:1412.3779_.
 # Peer reviewed international conference proceedings
 
 * P. Minvielle, A. Todeschini, F. Caron and P. Del Moral (2014). 
-[_Particle MCMC for Bayesian Microwave Control_](http://iopscience.iop.org/1742-6596/542/1/012007). 
+[Particle MCMC for Bayesian Microwave Control](http://iopscience.iop.org/1742-6596/542/1/012007).
 **4th International Workshop on New Computational Methods for Inverse Problems (NCMIP2014)**, Cachan, France.
 [[Paper](http://iopscience.iop.org/1742-6596/542/1/012007/pdf/1742-6596_542_1_012007.pdf)][[BibTeX](cite.html)]
 * A. Todeschini, F. Caron and M. Chavent (2013). 

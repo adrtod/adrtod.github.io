@@ -22,7 +22,7 @@ News
 Short bio
 =========
 
-I graduated my PhD in Statistics and Machine Learning [[CV](https://www.dropbox.com/s/6wq4b2qswibamdh/CV_AdrienTodeschini_2016.pdf?dl=1)] at
+I graduated my PhD in Statistics and Machine Learning [[CV]({{ site.author.cv_url }})] at
 
 - [INRIA Bordeaux - Sud-Ouest](http://www.inria.fr/centre/bordeaux), in [ALEA](http://alea.bordeaux.inria.fr/) and [CQFD](http://www.inria.fr/en/teams/cqfd) teams
 - [Institut de Mathématiques de Bordeaux](http://www.math.u-bordeaux.fr/) (IMB), CNRS UMR 5251

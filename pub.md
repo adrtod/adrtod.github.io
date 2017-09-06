@@ -9,7 +9,7 @@ navpos: 2
 * A. Todeschini (2016).
 Probabilistic and Bayesian nonparametric approaches for recommender systems and networks. 
 _University of Bordeaux_.
-[[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)][[BibTeX](cite.html)]
+[[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1)][[Slides](https://www.dropbox.com/s/jn46sxx5thblti3/thesis_v3.pdf?dl=1)][[BibTeX](cite.html)]
 
 # Preprints
 

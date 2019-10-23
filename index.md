@@ -25,11 +25,11 @@ Short bio
 
 I graduated my PhD in Statistics and Machine Learning [[CV]({{ site.author.cv_url }})] at
 
-- [INRIA Bordeaux - Sud-Ouest](http://www.inria.fr/centre/bordeaux), in [ALEA](http://alea.bordeaux.inria.fr/) and [CQFD](http://www.inria.fr/en/teams/cqfd) teams
-- [Institut de Mathématiques de Bordeaux](http://www.math.u-bordeaux.fr/) (IMB), CNRS UMR 5251
-- [Université de Bordeaux](http://www.u-bordeaux.fr/)
+- [INRIA Bordeaux - Sud-Ouest](https://www.inria.fr/centre/bordeaux), in [ALEA](https://alea.bordeaux.inria.fr/) and [CQFD](https://www.inria.fr/en/teams/cqfd) teams
+- [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/) (IMB), CNRS UMR 5251
+- [Université de Bordeaux](https://www.u-bordeaux.fr/)
 
-My advisors were [François Caron](http://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](http://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
+My advisors were [François Caron](https://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](https://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
 
 From Nov. 2009 to Jun. 2013, I was R&D engineer at INRIA Bordeaux in ALEA team.
 
@@ -49,4 +49,4 @@ I co-organized the [Statistical Machine Learning Reading Group](http://www.math.
 
 I was member of the ANR project [BNPSI](https://project.inria.fr/bnpsi/).
 
-Reviewer: [The Journal of Statistical Software](http://www.jstatsoft.org/), [EUSIPCO](http://www.eusipco2015.org/), [IEEE Transactions on Image Processing](http://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [AISTATS2016](http://www.aistats.org/)
+Reviewer: [The Journal of Statistical Software](https://www.jstatsoft.org/), [EUSIPCO](https://www.eusipco2015.org/), [IEEE Transactions on Image Processing](https://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [AISTATS2016](https://www.aistats.org/)

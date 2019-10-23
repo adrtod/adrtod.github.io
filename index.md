@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-navname: home
+navname: root
 navpos: 1
 ---
 

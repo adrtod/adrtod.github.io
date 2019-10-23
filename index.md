@@ -49,4 +49,4 @@ I co-organized the [Statistical Machine Learning Reading Group](http://www.math.
 
 I was member of the ANR project [BNPSI](https://project.inria.fr/bnpsi/).
 
-Reviewer: [The Journal of Statistical Software](https://www.jstatsoft.org/), [EUSIPCO](https://www.eusipco2015.org/), [IEEE Transactions on Image Processing](https://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [AISTATS2016](https://www.aistats.org/)
+Reviewer: [The Journal of Statistical Software](https://www.jstatsoft.org/), [EUSIPCO](http://www.eusipco2015.org/), [IEEE Transactions on Image Processing](https://www.signalprocessingsociety.org/publications/periodicals/image-processing/), [AISTATS2016](https://www.aistats.org/)

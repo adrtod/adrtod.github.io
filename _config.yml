@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Adrien Todeschini's personal website.
   PhD in Statistical Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://adrien.tspace.fr" # the base hostname & protocol for your site
+url: "https://adrien.tspace.fr" # the base hostname & protocol for your site
 
 # Build settings
 defaults:
@@ -38,7 +38,6 @@ author:
   github_url:  https://github.com/adrtod/
   #bitbucket_url:  https://bitbucket.org/adrtod/
   linkedin_url:  https://fr.linkedin.com/in/adrientodeschini/en
-  googleplus_url:  http://google.com/+AdrienTodeschini
   researchgate_url:  https://www.researchgate.net/profile/Adrien_Todeschini
   googlescholar_url:  https://scholar.google.fr/citations?user=ivSX6d3wzKIC&hl=en
   cv_url:  https://www.dropbox.com/s/clad96hvz873jt5/CV_AdrienTodeschini_2017.pdf?dl=1
@@ -46,13 +45,13 @@ author:
 # institutions
 inria:
   name: Inria Bordeaux
-  url: http://www.inria.fr/centre/bordeaux
+  url: https://www.inria.fr/centre/bordeaux
   img: /img/inria_95px.png
 imb:
   name: Institut de Mathématiques de Bordeaux
-  url: http://www.math.u-bordeaux.fr/
+  url: https://www.math.u-bordeaux.fr/
   img: /img/imb_95px.png
 univbdx:
   name: Université de Bordeaux
-  url: http://www.u-bordeaux.fr/
+  url: https://www.u-bordeaux.fr/
   img: /img/univbdx_95px.gif

@@ -10,7 +10,6 @@ News
 ====
 - 9 Mar. 2020: Our paper [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](https://doi.org/10.1111/rssb.12363) has been published in **Journal of the Royal Statistical Society: Series B**
 - 4 Dec. 2017: Check out our recommender app for [NIPS 2017](https://nips17.ml)
-- 23 Aug. 2017: New version of our preprint, [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](http://arxiv.org/abs/1602.02114v2), with comparisons to competing models (Thanks [Xenia](https://www.linkedin.com/in/xenia-miscouridou-69388582/)!)
 - 10 Nov. 2016: I defended my PhD thesis, [Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks](pub.html)
 - 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](http://cran.r-project.org/web/packages/rchallenge/)
 - 16 May 2015: Two [communications](com.html) accepted at JdS 2015

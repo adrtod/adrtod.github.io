@@ -11,11 +11,17 @@ title: Citations
   Year                     = {2016}
 }
 
-@Article{todeschini2016exchangeable,
+@Article{todeschini2020exchangeable,
   Title                    = {Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities},
   Author                   = {Todeschini, Adrien and Miscouridou, Xenia and Caron, Fran{\c{c}}ois},
-  Journal                  = {arXiv preprint arXiv:1602.02114v2},
-  Year                     = {2016}
+  Journal                  = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  Year                     = {2020},
+  Volume                   = {82},
+  Number                   = {2},
+  Pages                    = {487-520},
+  Month                    = {April},
+  DOI                      = {10.1111/rssb.12363},
+  URL                      = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12363}
 }
 
 @Article{todeschini2014biips,

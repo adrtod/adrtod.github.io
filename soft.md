@@ -1,6 +1,5 @@
 ---
 title: Software
-navname: soft
 navpos: 4
 ---
 

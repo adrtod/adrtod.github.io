@@ -1,13 +1,25 @@
 ---
 title: Communications & visits
-navname: com
+navname: Communications
 navpos: 3
 ---
 
+# 2019
+
+*   Febr. 2019, Bordeaux, France, [**Dataquitaine** (AI, Operational Research and Data Science days)](http://dataquitaine.com/2019)
+    Talk: [Expert ou machine? Les deux!](http://www.dataquitaine.com/2019/talk-ia-ai-datascience-ro-bordeaux-2019?id=17&c=Scorelab) [[Slides](/doc/aquitaine-ia-ro-datascience.pdf)]
+
+# 2018
+
+*   June 2018, Saclay, France, [**JdS 2018**](http://jds2018.sfds.asso.fr/)  
+    Invited talk: _Approche bayésienne hiérarchique et dynamique pour la prédiction et l’agrégation de scores_ [[Paper](/doc/todeschini-amies-jds2018_v2.pdf)] [[Slides](/doc/pres_jds2018.pdf)]
+*   Febr. 2018, Bordeaux, France, [**Dataquitaine** (AI, Operational Research and Data Science days)](http://www.dataquitaine.com/2019/index_2018.html)
+    Talk: Recommandation personnalisée et Machine Learning [[Slides](/doc/journees_optroia_2018-02-01.pdf)]
+
 # 2016
 
-*   Nov. 2016, Bordeaux, France, PhD defense  
-    Talk: _Probabilistic and Bayesian nonparametric approaches for recommender systems and networks_   [[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1), [Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
+*   Nov. 2016, Bordeaux, France, PhD defense
+    Defense: _Probabilistic and Bayesian nonparametric approaches for recommender systems and networks_   [[Thesis](https://www.dropbox.com/s/litxxk500rvt9l0/thesis_v3.pdf?dl=1), [Slides](https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1)]
 *   Aug. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 *   Jun. 2016, Oxford, UK, Visiting [F. Caron](http://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
 

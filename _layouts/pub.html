@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+{% for section in site.data.pub %}
+  <h2>{{ section[0] }}</h2>
+  {% for pub in section[1] %}
+    <h4 id="{{ pub.bibtex }}">{% if pub.url %}<a href={{ pub.url }}>{% endif %}{{ pub.title }}.{% if pub.url %}</a>{% endif %}<br>
+    {{ pub.author }} ({{ pub.year }}). {% if pub.institution %}<em>{{ pub.institution }}</em>{% endif %}{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.venue %}<strong>{{ pub.venue }}</strong>{% endif %}{% if pub.location %}, {{ pub.location }}{% endif %}.</h4>
+    <p>{{ pub.abstract }}</p>
+    <p>[{% for link in pub.links %}<a href="{{ link[1] }}">{{ link[0] }}</a>, 
+    {% endfor %}<a href="{{ "/cite.html" | prepend: site.baseurl }}">BibTeX</a>]</p>
+  {% endfor %}
+{% endfor %}
+
+{{ content }}

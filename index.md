@@ -7,13 +7,13 @@ navpos: 1
 
 News
 ====
-- 9 Mar. 2020: Our paper [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](https://doi.org/10.1111/rssb.12363) has been published in **Journal of the Royal Statistical Society: Series B**
+- 9 Mar. 2020: Our paper [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](pub.html#todeschini2020exchangeable) has been published in [**Journal of the Royal Statistical Society: Series B**](https://doi.org/10.1111/rssb.12363)
 - 4 Dec. 2017: Check out our recommender app for [NIPS 2017](https://nips17.ml)
-- 10 Nov. 2016: I defended my PhD thesis, [Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks](pub.html)
-- 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](http://cran.r-project.org/web/packages/rchallenge/)
+- 10 Nov. 2016: I defended my PhD thesis, [Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks](pub.html#todeschini2016probabilistic)
+- 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](https://cran.r-project.org/web/packages/rchallenge/)
 - 16 May 2015: Two [communications](com.html) accepted at JdS 2015
 - 12 Mar. 2015: My application to [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2015/index.html) was received!
-- 11 Dec. 2014: Preprint of [Biips](pub.html) paper available!
+- 11 Dec. 2014: Preprint of [Biips](pub.html#todeschini2014biips) paper available!
 - 25 Nov. 2014: New release of [Biips software](https://biips.github.io/) available!
 
 
@@ -44,7 +44,7 @@ Research interests
 * Recommender systems, collaborative filtering
 * Monte Carlo methods: MCMC, SMC
 
-I co-organized the [Statistical Machine Learning Reading Group](http://www.math.u-bordeaux.fr/~machaven/smiling/) in Bordeaux.
+I co-organized the [Statistical Machine Learning Reading Group](https://www.math.u-bordeaux.fr/~machaven/smiling/) in Bordeaux.
 
 I was member of the ANR project [BNPSI](https://project.inria.fr/bnpsi/).
 

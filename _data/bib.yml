@@ -1,0 +1,201 @@
+# File automatically generated from _data/todeschini.bib
+# Do NOT edit
+# In order to update, run
+#   Rscript _R/bibtex.r
+
+todeschini2020exchangeable:
+  bibtype: Article
+  author: Todeschini A., Miscouridou X., Caron F.
+  title: Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping
+    Communities
+  journal: 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
+  year: '2020'
+  volume: '82'
+  number: '2'
+  pages: 487-520
+  month: April
+  doi: 10.1111/rssb.12363
+  abstract: We propose a novel statistical model for sparse networks with overlapping
+    community structure. The model is based on representing the graph as an exchangeable
+    point process and naturally generalizes existing probabilistic models with overlapping
+    block structure to the sparse regime. Our construction builds on vectors of completely
+    random measures and has interpretable parameters, each node being assigned a vector
+    representing its levels of affiliation to some latent communities. We develop
+    methods for efficient simulation of this class of random graphs and for scalable
+    posterior inference. We show that the approach proposed can recover interpretable
+    structure of real world networks and can handle graphs with thousands of nodes
+    and tens of thousands of edges.
+  url: https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12363
+todeschini2018approche:
+  bibtype: InProceedings
+  author: Todeschini A., Couallier V., Chavent M.
+  title: Approche bayésienne hiérarchique et dynamique pour la prédiction et l’agrégation
+    de scores
+  booktitle: 50èmes Journées de Statistique de la SFdS
+  year: '2018'
+  organization: Société Française de Statistique
+  abstract: Scorelab has developed the Global Wine Score, a score aggregator used
+    to evaluate and compare all the wines in the world. It is based on the ratings
+    of critics who are recognized in the world of wine. However, not all wines are
+    rated by a sufficient number of critics to be able to provide a minimal degree
+    of confidence. We develop a Bayesian approach to enrich the score with a prediction
+    that borrows information from earlier vintages and neighboring appellations. We
+    exploit the geographical hierarchy of appellations through a hierarchical Bayesian
+    model. Residual ratings over the years are modeled by a multi-sensor Kalman filter.
+todeschini2016probabilistic:
+  bibtype: PhdThesis
+  author: Todeschini A.
+  title: Probabilistic and Bayesian nonparametric approaches for recommenders systems
+    and networks
+  school: University of Bordeaux
+  year: '2016'
+  month: Nov
+  abstract: We propose two novel approaches for recommender systems and networks.
+    In the first part, we first give an overview of recommender systems and concentrate
+    on the low-rank approaches for matrix completion. Building on a probabilistic
+    approach, we propose novel penalty functions on the singular values of the low-rank
+    matrix. By exploiting a mixture model representation of this penalty, we show
+    that a suitably chosen set of latent variables enables to derive an expectation-maximization
+    algorithm to obtain a maximum a posteriori estimate of the completed low-rank
+    matrix. The resulting algorithm is an iterative soft-thresholded algorithm which
+    iteratively adapts the shrinkage coefficients associated to the singular values.
+    The algorithm is simple to implement and can scale to large matrices. We provide
+    numerical comparisons between our approach and recent alternatives showing the
+    interest of the proposed approach for low-rank matrix completion. In the second
+    part, we first introduce some background on Bayesian nonparametrics and in particular
+    on completely random measures (CRMs) and their multivariate extension, the compound
+    CRMs. We then propose a novel statistical model for sparse networks with overlapping
+    community structure. The model is based on representing the graph as an exchangeable
+    point process, and naturally generalizes existing probabilistic models with overlapping
+    block-structure to the sparse regime. Our construction builds on vectors of CRMs,
+    and has interpretable parameters, each node being assigned a vector representing
+    its level of affiliation to some latent communities. We develop methods for simulating
+    this class of random graphs, as well as to perform posterior inference. We show
+    that the proposed approach can recover interpretable structure from two real-world
+    networks and can handle graphs with thousands of nodes and tens of thousands of
+    edges.
+  url: https://tel.archives-ouvertes.fr/tel-01583045
+todeschini2015approche:
+  bibtype: InProceedings
+  author: Todeschini A., Caron F.
+  title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire
+    à faible rang avec loi de puissance
+  booktitle: 47èmes Journées de Statistique de la SFdS
+  year: '2015'
+  month: Jun
+  organization: Société Française de Statistique
+  abstract: We introduce a low-rank Bayesian nonparametric (BNP) model for bipartite
+    graphs. Recently, Caron (2012) proposed a BNP model where each node is given its
+    own sociability parameter allowing to capture the power-law behavior of real world
+    bipartite graphs. This model can be considered as a rank one nonnegative factorization
+    of the adjacency matrix. Building on the compound random measures recently introduced
+    by Griffin and Leisen (2014), we derive a rank *p* generalization of this model
+    where each node is associated with a *p*-dimensional vector of sociability parameters
+    accounting for several latent dimensions. While preserving the desired properties
+    of interpretability, scalability and power-law behavior, our model is more flexible
+    and provides better predictive performance as illustrated on several datasets.
+  url: https://hal.inria.fr/hal-01157151
+todeschini2015competitions:
+  bibtype: InProceedings
+  author: Todeschini A., Genuer R.
+  title: Compétitions d’apprentissage automatique avec le package R rchallenge
+  booktitle: 47èmes Journées de Statistique de la SFdS
+  year: '2015'
+  month: Jun
+  organization: Société Française de Statistique
+  abstract: In machine learning, empirical performance on real data are crucial in
+    the success of a method. Recent years have seen the emergence of a large number
+    of machine learning competitions. These challenges are motivated by industrial
+    (Netflix prize) or academic (HiggsML challenge) applications and put in competition
+    researchers and data scientists to obtain the best performance. We wanted to expose
+    students to this reality by submitting a challenge in the context of the machine
+    learning course. The leaderboard is displayed on an automatically updated web
+    page allowing emulation among students. The history of the results also allows
+    them to visualize their progress through the submissions. In addition, the challenge
+    can continue outside of the supervised sessions promoting in-dependence and exploration
+    of new learning techniques and computer tools. The system we have implemented
+    is available as an R package for reuse by other teachers. Building on the R Markdown
+    and Dropbox tools, it requires no network configuration and can be deployed very
+    easily on a personal computer.
+  url: https://hal.inria.fr/hal-01157147
+todeschini2014biips:
+  bibtype: Article
+  author: Todeschini A., Caron F., Fuentes M., Legrand P., Del Moral P.
+  title: 'Biips: Software for Bayesian Inference with Interacting Particle Systems'
+  journal: arXiv preprint arXiv:1412.3779
+  year: '2014'
+  month: Dec
+  abstract: 'Biips is a software platform for automatic Bayesian inference with interacting
+    particle systems. Biips allows users to define their statistical model in the
+    probabilistic programming BUGS language, as well as to add custom functions or
+    samplers within this language. Then it runs sequential Monte Carlo based algorithms
+    (particle filters, particle independent Metropolis-Hastings, particle marginal
+    Metropolis-Hastings) in a black-box manner so that to approximate the posterior
+    distribution of interest as well as the marginal likelihood. The software is developed
+    in C++ with interfaces with the softwares R, Matlab and Octave. '
+  url: https://arxiv.org/abs/1412.3779
+minvielle2014particle:
+  bibtype: Article
+  author: Minvielle P., Todeschini A., Caron F., Del Moral P.
+  title: Particle MCMC for Bayesian Microwave Control
+  journal: 'Journal of Physics: Conference Series'
+  year: '2014'
+  volume: '542'
+  number: '1'
+  pages: '012007'
+  month: Oct
+  publisher: IOP Publishing
+  abstract: We consider the problem of local radioelectric property estimation from
+    global electromagnetic scattering measurements. This challenging ill-posed high
+    dimensional inverse problem can be explored by intensive computations of a parallel
+    Maxwell solver on a petaflopic supercomputer. Then, it is shown how Bayesian inference
+    can be perfomed with a Particle Marginal Metropolis-Hastings (PMMH) approach,
+    which includes a Rao-Blackwellised Sequential Monte Carlo algorithm with interacting
+    Kalman filters. Material properties, including a multiple components "Debye relaxation"/"Lorenzian
+    resonant" material model, are estimated; it is illustrated on synthetic data.
+    Eventually, we propose different ways to deal with higher dimensional problems,
+    from parallelization to the original introduction of efficient sequential data
+    assimilation techniques, widely used in weather forecasting, oceanography, geophysics,
+    etc.
+  url: https://doi.org/10.1088/1742-6596/542/1/012007
+todeschini2014completion:
+  bibtype: InProceedings
+  author: Todeschini A., Caron F., Chavent M.
+  title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes
+    de régularisation spectrale adaptatifs
+  booktitle: 46èmes Journées de Statistique de la SFdS
+  year: '2014'
+  month: Jun
+  organization: Société Française de Statistique
+  abstract: Nous proposons une nouvelle classe d'algorithmes pour la complétion de
+    matrice de rang faible. Notre approche s'appuie sur de nouvelles fonctions de
+    pénalité sur les valeurs singulières de la matrice de rang faible. En exploitant
+    une représentation basée sur un modèle de mélange de cette pénalité, nous montrons
+    qu'un ensemble de variables latentes convenablement choisi permet de dériver un
+    algorithme EM pour obtenir une estimation du Maximum A Posteriori de la matrice
+    de rang faible complétée. L'algorithme résultant est un algorithme à seuillage
+    doux itératif qui adapte de manière itérative les coefficients de réduction associés
+    aux valeurs singulières.
+  url: https://hal.inria.fr/hal-01027442
+todeschini2013probabilistic:
+  bibtype: InProceedings
+  author: Todeschini A., Caron F., Chavent M.
+  title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization
+    Algorithms
+  booktitle: Advances in Neural Information Processing Systems
+  year: '2013'
+  editor: Burges C.J.C., Bottou L., Welling M., Ghahramani Z., Weinberger K.Q.
+  volume: '26'
+  publisher: Curran Associates, Inc.
+  abstract: We propose a novel class of algorithms for low rank matrix completion.
+    Our approach builds on novel penalty functions on the singular values of the low
+    rank matrix. By exploiting a mixture model representation of this penalty, we
+    show that a suitably chosen set of latent variables enables to derive an Expectation-Maximization
+    algorithm to obtain a Maximum A Posteriori estimate of the completed low rank
+    matrix. The resulting algorithm is an iterative soft-thresholded algorithm which
+    iteratively adapts the shrinkage coefficients associated to the singular values.
+    The algorithm is simple to implement and can scale to large matrices. We provide
+    numerical comparisons between our approach and recent alternatives showing the
+    interest of the proposed approach for low rank matrix completion.
+  url: https://proceedings.neurips.cc/paper/2013/hash/5ef0b4eba35ab2d6180b0bca7e46b6f9-Abstract.html
+

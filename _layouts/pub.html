@@ -5,11 +5,15 @@ layout: page
 {% for section in site.data.pub %}
   <h2>{{ section[0] }}</h2>
   {% for pub in section[1] %}
-    <h4 id="{{ pub.bibtex }}">{% if pub.url %}<a href={{ pub.url }}>{% endif %}{{ pub.title }}.{% if pub.url %}</a>{% endif %}<br>
-    {{ pub.author }} ({{ pub.year }}). {% if pub.institution %}<em>{{ pub.institution }}</em>{% endif %}{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.venue %}<strong>{{ pub.venue }}</strong>{% endif %}{% if pub.location %}, {{ pub.location }}{% endif %}.</h4>
-    <p>{{ pub.abstract }}</p>
+    {% assign bib = site.data.bib[pub.bibtexkey] %}
+    
+    <h4 id="{{ pub.bibtexkey }}">{{ bib.author }} ({{ bib.year }}). {% if bib.url %}<a href={{ bib.url }}>{% endif %}“{{ bib.title }}”{% if bib.url %}</a>{% endif %}. {% if pub.conference %}<em>{% if pub.conference.url %}<a href={{ pub.conference.url }}>{% endif %}{{ pub.conference.title }}{% if pub.conference.url %}</a>{% endif %}</em>, {{ pub.conference.location }}{% else %}{% if bib.school %}<em>{{ bib.school }}</em>{% endif %}{% if bib.journal %}<em>{{ bib.journal }}</em>{% endif %}{% endif %}.</h4>
+    
+    {{ bib.abstract | markdownify }}
+    
     <p>[{% for link in pub.links %}<a href="{{ link[1] }}">{{ link[0] }}</a>, 
-    {% endfor %}<a href="{{ "/cite.html" | prepend: site.baseurl }}">BibTeX</a>]</p>
+    {% endfor %}<a href="{{ "/doc/todeschini.bib" | prepend: site.baseurl }}">BibTeX</a>]</p>
+    
   {% endfor %}
 {% endfor %}
 

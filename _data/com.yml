@@ -1,6 +1,6 @@
 2019:
   - year: 2019
-    month: Febr.
+    month: Feb.
     location: Bordeaux, France
     events:
       - title: Dataquitaine (AI, Operational Research and Data Science days)
@@ -14,7 +14,7 @@
           
 2018:
   - year: 2018
-    month: June
+    month: Jun.
     location: Saclay, France
     events:
       - title: JdS 2018
@@ -27,7 +27,7 @@
           Slides: /doc/pres_jds2018.pdf
        
   - year: 2018
-    month: Febr.
+    month: Feb.
     location: Bordeaux, France
     events:
       - title: Dataquitaine (AI, Operational Research and Data Science days)
@@ -70,13 +70,13 @@
       - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
         
   - year: 2015
-    month: Sept.
+    month: Sep.
     location:  Oxford, UK
     events:
       - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
        
   - year: 2015
-    month: Sept.
+    month: Sep.
     location: Arcachon, France
     events:
       - title: Rencontres des Jeunes Statisticiens
@@ -86,7 +86,7 @@
         title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance
   
   - year: 2015
-    month: July.
+    month: Jul.
     location: Tübingen, Germany
     events:
       - title: Machine Learning Summer School (MLSS)
@@ -98,7 +98,7 @@
           Poster: /doc/mlss_poster.pdf
   
   - year: 2015
-    month: June
+    month: Jun.
     location: Grenoble, France
     events:
       - title: Quatrièmes Rencontres R
@@ -113,7 +113,7 @@
           R code: soft.html#rchallenge
   
   - year: 2015
-    month: June
+    month: Jun.
     location: Lille, France
     events:
       - title: JdS 2015
@@ -165,7 +165,7 @@
           Matlab code: soft.html#hasi
   
   - year: 2015
-    month: Jan
+    month: Jan.
     location: Oxford, UK
     events:
       - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
@@ -221,7 +221,7 @@
           Software: soft.html#biips    
           
   - year: 2014
-    month: June
+    month: Jun.
     location: Rennes, France
     events:
       - title: JdS 2014
@@ -338,7 +338,7 @@
           Software: soft.html#biips
           
   - year: 2012
-    month: July
+    month: Jul.
     location: Bordeaux, France
     events:
       - title: Rencontres R 2012
@@ -351,7 +351,7 @@
           Software: soft.html#biips
           
   - year: 2012
-    month: June
+    month: Jun.
     location: Kyoto/Tokyo, Japan
     events:
       - title: ISBA 2012

@@ -3,7 +3,7 @@ layout: page
 ---
 
 {% for section in site.data.com %}
-  <h1>{{ section[0] }}</h1>
+  <h1 id="{{ section[0] }}">{{ section[0] }}</h1>
   <ul>
   {% for com in section[1] %}
       <li>{{ com.month }} {{ com.year }}, {{ com.location }}, {% for ev in com.events %}{% if ev.url %}<a href="{{ ev.url }}">{% endif %}<strong>{{ ev.title | markdownify | remove: '<p>' | remove: '</p>' }}</strong>{% if ev.url %}</a>{% endif %}{% unless forloop.last %} + {% endunless %}{% endfor %}<br>

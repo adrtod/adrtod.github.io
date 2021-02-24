@@ -10,8 +10,8 @@ News
 - 9 Mar. 2020: Our paper [Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping Communities](pub.html#todeschini2020exchangeable) has been published in [**Journal of the Royal Statistical Society: Series B**](https://doi.org/10.1111/rssb.12363)
 - 4 Dec. 2017: Check out our recommender app for [NIPS 2017](https://nips17.ml)
 - 10 Nov. 2016: I defended my PhD thesis, [Probabilistic and Bayesian nonparametric approaches for recommenders systems and networks](pub.html#todeschini2016probabilistic)
-- 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](https://cran.r-project.org/web/packages/rchallenge/)
-- 16 May 2015: Two [communications](com.html) accepted at JdS 2015
+- 23 Oct. 2016: [rchallenge](https://adrtod.github.io/rchallenge/) v1.3.0 is now available on [CRAN](https://cran.r-project.org/package=rchallenge)
+- 16 May 2015: Two [communications](com.html#2015) accepted at JdS 2015
 - 12 Mar. 2015: My application to [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2015/index.html) was received!
 - 11 Dec. 2014: Preprint of [Biips](pub.html#todeschini2014biips) paper available!
 - 25 Nov. 2014: New release of [Biips software](https://biips.github.io/) available!
@@ -28,7 +28,7 @@ I graduated my PhD in Statistics and Machine Learning [[CV]({{ site.author.cv_ur
 - [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/) (IMB), CNRS UMR 5251
 - [Université de Bordeaux](https://www.u-bordeaux.fr/)
 
-My advisors were [François Caron](https://www.stats.ox.ac.uk/~caron/) (Oxford) and [Marie Chavent](https://www.math.u-bordeaux.fr/~machaven/) (Bordeaux).
+My advisors were [François Caron](https://www.stats.ox.ac.uk/~caron/) (U. Oxford) and [Marie Chavent](https://www.math.u-bordeaux.fr/~machaven/) (U. Bordeaux, INRIA).
 
 From Nov. 2009 to Jun. 2013, I was R&D engineer at INRIA Bordeaux in ALEA team.
 

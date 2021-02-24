@@ -27,7 +27,7 @@ _-- Page in french --_
 *   [R Project](http://www.r-project.org/)
 *   [RStudio](http://www.rstudio.com/) : IDE multiplate-forme gratuit et open source
 *   Aides-mémoires : [Programmation R](http://www.duclert.org/), Carte de référence [[pdf](http://revue.sesamath.net/IMG/pdf/R_RefCard.pdf)], Aide mémoire [[pdf](http://cran.r-project.org/doc/contrib/Kauffmann_aide_memoire_R.pdf)], Matlab/R Reference [[pdf](http://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf)]
-*   [R Markdown](http://rmarkdown.rstudio.com/) : exemple de script compte-rendu [[script](https://www.dropbox.com/s/iuz4hbwlrg10nv7/r_notebook.R?dl=1)][[pdf](https://www.dropbox.com/s/vi3252o3ngzs83q/r_notebook.pdf?dl=1)][[html](r_notebook.html)], cheat sheet [[pdf](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)]
+*   [R Markdown](http://rmarkdown.rstudio.com/) : exemple de script compte-rendu [[script](https://www.dropbox.com/s/iuz4hbwlrg10nv7/r_notebook.R?dl=1), [pdf](https://www.dropbox.com/s/vi3252o3ngzs83q/r_notebook.pdf?dl=1), [html](r_notebook.html)], cheat sheet [[pdf](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)]
 *   [Cookbook for R](http://www.cookbook-r.com/), [Advanced R](http://adv-r.had.co.nz/) et [R packages](http://r-pkgs.had.co.nz/)
 
 

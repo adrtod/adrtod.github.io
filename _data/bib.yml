@@ -1,11 +1,17 @@
 # File automatically generated from _data/todeschini.bib
-# Do NOT edit
-# In order to update, run
+# Do NOT edit.
+# To regenerate, run:
 #   Rscript _R/bibtex.r
 
 todeschini2020exchangeable:
   bibtype: Article
-  author: Todeschini A., Miscouridou X., Caron F.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: Xenia
+    family: Miscouridou
+  - given: François
+    family: Caron
   title: Exchangeable Random Measures for Sparse and Modular Graphs with Overlapping
     Communities
   journal: 'Journal of the Royal Statistical Society: Series B (Statistical Methodology)'
@@ -28,7 +34,13 @@ todeschini2020exchangeable:
   url: https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12363
 todeschini2018approche:
   bibtype: InProceedings
-  author: Todeschini A., Couallier V., Chavent M.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: Vincent
+    family: Couallier
+  - given: Marie
+    family: Chavent
   title: Approche bayésienne hiérarchique et dynamique pour la prédiction et l’agrégation
     de scores
   booktitle: 50èmes Journées de Statistique de la SFdS
@@ -44,7 +56,9 @@ todeschini2018approche:
     model. Residual ratings over the years are modeled by a multi-sensor Kalman filter.
 todeschini2016probabilistic:
   bibtype: PhdThesis
-  author: Todeschini A.
+  author:
+  - given: Adrien
+    family: Todeschini
   title: Probabilistic and Bayesian nonparametric approaches for recommenders systems
     and networks
   school: University of Bordeaux
@@ -77,7 +91,11 @@ todeschini2016probabilistic:
   url: https://tel.archives-ouvertes.fr/tel-01583045
 todeschini2015approche:
   bibtype: InProceedings
-  author: Todeschini A., Caron F.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: François
+    family: Caron
   title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire
     à faible rang avec loi de puissance
   booktitle: 47èmes Journées de Statistique de la SFdS
@@ -89,15 +107,19 @@ todeschini2015approche:
     own sociability parameter allowing to capture the power-law behavior of real world
     bipartite graphs. This model can be considered as a rank one nonnegative factorization
     of the adjacency matrix. Building on the compound random measures recently introduced
-    by Griffin and Leisen (2014), we derive a rank *p* generalization of this model
-    where each node is associated with a *p*-dimensional vector of sociability parameters
+    by Griffin and Leisen (2014), we derive a rank $p$ generalization of this model
+    where each node is associated with a $p$-dimensional vector of sociability parameters
     accounting for several latent dimensions. While preserving the desired properties
     of interpretability, scalability and power-law behavior, our model is more flexible
     and provides better predictive performance as illustrated on several datasets.
   url: https://hal.inria.fr/hal-01157151
 todeschini2015competitions:
   bibtype: InProceedings
-  author: Todeschini A., Genuer R.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: Robin
+    family: Genuer
   title: Compétitions d’apprentissage automatique avec le package R rchallenge
   booktitle: 47èmes Journées de Statistique de la SFdS
   year: '2015'
@@ -120,7 +142,17 @@ todeschini2015competitions:
   url: https://hal.inria.fr/hal-01157147
 todeschini2014biips:
   bibtype: Article
-  author: Todeschini A., Caron F., Fuentes M., Legrand P., Del Moral P.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: François
+    family: Caron
+  - given: Marc
+    family: Fuentes
+  - given: Pierrick
+    family: Legrand
+  - given: Pierre
+    family: Del Moral
   title: 'Biips: Software for Bayesian Inference with Interacting Particle Systems'
   journal: arXiv preprint arXiv:1412.3779
   year: '2014'
@@ -136,7 +168,15 @@ todeschini2014biips:
   url: https://arxiv.org/abs/1412.3779
 minvielle2014particle:
   bibtype: Article
-  author: Minvielle P., Todeschini A., Caron F., Del Moral P.
+  author:
+  - given: Pierre
+    family: Minvielle
+  - given: Adrien
+    family: Todeschini
+  - given: François
+    family: Caron
+  - given: Pierre
+    family: Del Moral
   title: Particle MCMC for Bayesian Microwave Control
   journal: 'Journal of Physics: Conference Series'
   year: '2014'
@@ -160,7 +200,13 @@ minvielle2014particle:
   url: https://doi.org/10.1088/1742-6596/542/1/012007
 todeschini2014completion:
   bibtype: InProceedings
-  author: Todeschini A., Caron F., Chavent M.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: François
+    family: Caron
+  - given: Marie
+    family: Chavent
   title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes
     de régularisation spectrale adaptatifs
   booktitle: 46èmes Journées de Statistique de la SFdS
@@ -179,12 +225,33 @@ todeschini2014completion:
   url: https://hal.inria.fr/hal-01027442
 todeschini2013probabilistic:
   bibtype: InProceedings
-  author: Todeschini A., Caron F., Chavent M.
+  author:
+  - given: Adrien
+    family: Todeschini
+  - given: François
+    family: Caron
+  - given: Marie
+    family: Chavent
   title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization
     Algorithms
   booktitle: Advances in Neural Information Processing Systems
   year: '2013'
-  editor: Burges C.J.C., Bottou L., Welling M., Ghahramani Z., Weinberger K.Q.
+  editor:
+  - given:
+    - C.
+    - J.
+    - C.
+    family: Burges
+  - given: L.
+    family: Bottou
+  - given: M.
+    family: Welling
+  - given: Z.
+    family: Ghahramani
+  - given:
+    - K.
+    - Q.
+    family: Weinberger
   volume: '26'
   publisher: Curran Associates, Inc.
   abstract: We propose a novel class of algorithms for low rank matrix completion.

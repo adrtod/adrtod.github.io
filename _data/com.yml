@@ -1,377 +1,371 @@
-2019:
-  - year: 2019
-    month: Feb.
-    location: Bordeaux, France
-    events:
-      - title: Dataquitaine (AI, Operational Research and Data Science days)
-        url: https://dataquitaine.com/2019
-    content:
-      - type: Talk
-        title: Expert ou machine ? Les deux !
-        url: https://www.dataquitaine.com/2019/talk-ia-ai-datascience-ro-bordeaux-2019?id=17&c=Scorelab
-        links:
-          Slides: /doc/aquitaine-ia-ro-datascience.pdf
-          
-2018:
-  - year: 2018
-    month: Jun.
-    location: Saclay, France
-    events:
-      - title: JdS 2018
-        url: http://jds2018.sfds.asso.fr/
-    content:
-      - type: Invited talk
-        title: Approche bayésienne hiérarchique et dynamique pour la prédiction et l'agrégation de scores
-        links:
-          Paper: /doc/todeschini-amies-jds2018_v2.pdf
-          Slides: /doc/pres_jds2018.pdf
-       
-  - year: 2018
-    month: Feb.
-    location: Bordeaux, France
-    events:
-      - title: Dataquitaine (AI, Operational Research and Data Science days)
-        url: https://www.dataquitaine.com/2019/index_2018.html
-    content:
-      - type: Talk
-        title: Recommandation personnalisée et Machine Learning
-        links:
-          Slides: /doc/journees_optroia_2018-02-01.pdf
-          
-2016:
-  - year: 2016
-    month: Nov.
-    location: Bordeaux, France
-    events:
-      - title: PhD Thesis defense
-    content:
-      - type: Defense
-        title: Probabilistic and Bayesian nonparametric approaches for recommender systems and networks
-        links:
-          Thesis: pub.html#todeschini2016probabilistic
-       
-  - year: 2016 
-    month: Aug.
-    location:  Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-    
-  - year: 2016
-    month: Jun.
-    location:  Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+- year: 2019
+  month: Feb.
+  location: Bordeaux, France
+  events:
+    - title: Dataquitaine (AI, Operational Research and Data Science days)
+      url: https://dataquitaine.com/2019
+  entries:
+    - type: Talk
+      title: Expert ou machine ? Les deux !
+      url: https://www.dataquitaine.com/2019/talk-ia-ai-datascience-ro-bordeaux-2019?id=17&c=Scorelab
+      links:
+        Slides: /files/aquitaine-ia-ro-datascience.pdf
 
-2015:
-  - year: 2015
-    month: Dec.
-    location:  Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+- year: 2018
+  month: Jun.
+  location: Saclay, France
+  events:
+    - title: JdS 2018
+      url: http://jds2018.sfds.asso.fr/
+  entries:
+    - type: Invited talk
+      title: Approche bayésienne hiérarchique et dynamique pour la prédiction et l'agrégation de scores
+      links:
+        Paper: /files/todeschini-amies-jds2018_v2.pdf
+        Slides: /files/pres_jds2018.pdf
+     
+- year: 2018
+  month: Feb.
+  location: Bordeaux, France
+  events:
+    - title: Dataquitaine (AI, Operational Research and Data Science days)
+      url: https://www.dataquitaine.com/2019/index_2018.html
+  entries:
+    - type: Talk
+      title: Recommandation personnalisée et Machine Learning
+      links:
+        Slides: /files/journees_optroia_2018-02-01.pdf
         
-  - year: 2015
-    month: Sep.
-    location:  Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-       
-  - year: 2015
-    month: Sep.
-    location: Arcachon, France
-    events:
-      - title: Rencontres des Jeunes Statisticiens
-        url: http://rencontres-jeunes-statisticiens.sfds.asso.fr/
-    content:
-      - type: Talk
-        title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance
+- year: 2016
+  month: Nov.
+  location: Bordeaux, France
+  events:
+    - title: PhD Thesis defense
+  entries:
+    - type: Defense
+      title: Probabilistic and Bayesian nonparametric approaches for recommender systems and networks
+      links:
+        Thesis: pub.html#todeschini2016probabilistic
+        Slides: https://www.dropbox.com/s/l4dhu50pql0vluj/thesis_pres.pdf?dl=1
+     
+- year: 2016 
+  month: Aug.
+  location:  Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
   
-  - year: 2015
-    month: Jul.
-    location: Tübingen, Germany
-    events:
-      - title: Machine Learning Summer School (MLSS)
-        url: http://mlss.tuebingen.mpg.de/2015/index.html
-    content:
-      - type: Poster
-        title: A Low-rank Bayesian Nonparametric Model for Binary Matrices
-        links:
-          Poster: /doc/mlss_poster.pdf
-  
-  - year: 2015
-    month: Jun.
-    location: Grenoble, France
-    events:
-      - title: Quatrièmes Rencontres R
-        url: http://r2015-grenoble.sciencesconf.org/
-    content:
-      - type: Lightning talk
-        title: Compétitions d'apprentissage automatique avec le package rchallenge
-        speaker: "[R. Genuer](http://robin.genuer.fr/)"
-        url: https://r2015-grenoble.sciencesconf.org/66887.html
-        links:
-          Paper: https://r2015-grenoble.sciencesconf.org/66887/66887.pdf
-          R code: soft.html#rchallenge
-  
-  - year: 2015
-    month: Jun.
-    location: Lille, France
-    events:
-      - title: JdS 2015
-        url: http://jds2015.sfds.asso.fr/
-    content:
-      - type: Talk
-        title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance
-        url: http://jds2015.sfds.asso.fr/prog/showabstract.php?id=209
-        links:
-          Paper: http://papersjds15.sfds.asso.fr/submission_209.pdf
-      - type: Talk
-        title: Compétitions d'apprentissage automatique avec le package R rchallenge
-        url: http://jds2015.sfds.asso.fr/prog/showabstract.php?id=211
-        links:
-          Paper: http://papersjds15.sfds.asso.fr/submission_2011.pdf
-          R code: soft.html#rchallenge
-  
-  - year: 2015
-    month: May
-    location: Basel, Switzerland
-    events:
-      - title: BAYES 2015
-        url: https://bayes-pharma.org/previous-conferences/bayes-2015/
-    content:
-      - type: Invited talk
-        title: "Biips: Software for Bayesian Inference with Interacting Particle Systems"
-        links:
-          Slides: http://www.bayes-pharma.org/wp-content/uploads/2014/10/biips_bayespharma2015.pdf
-          Paper: https://arxiv.org/pdf/1412.3779.pdf
-          Software: soft.html#biips
+- year: 2016
+  month: Jun.
+  location:  Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+
+- year: 2015
+  month: Dec.
+  location:  Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+      
+- year: 2015
+  month: Sep.
+  location:  Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+     
+- year: 2015
+  month: Sep.
+  location: Arcachon, France
+  events:
+    - title: Rencontres des Jeunes Statisticiens
+      url: http://rencontres-jeunes-statisticiens.sfds.asso.fr/
+  entries:
+    - type: Talk
+      title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance
+
+- year: 2015
+  month: Jul.
+  location: Tübingen, Germany
+  events:
+    - title: Machine Learning Summer School (MLSS)
+      url: http://mlss.tuebingen.mpg.de/2015/index.html
+  entries:
+    - type: Poster
+      title: A Low-rank Bayesian Nonparametric Model for Binary Matrices
+      links:
+        Poster: /files/mlss_poster.pdf
+
+- year: 2015
+  month: Jun.
+  location: Grenoble, France
+  events:
+    - title: Quatrièmes Rencontres R
+      url: http://r2015-grenoble.sciencesconf.org/
+  entries:
+    - type: Lightning talk
+      title: Compétitions d'apprentissage automatique avec le package rchallenge
+      speaker: "[R. Genuer](http://robin.genuer.fr/)"
+      url: https://r2015-grenoble.sciencesconf.org/66887.html
+      links:
+        Paper: https://r2015-grenoble.sciencesconf.org/66887/66887.pdf
+        R code: soft.html#rchallenge
+
+- year: 2015
+  month: Jun.
+  location: Lille, France
+  events:
+    - title: JdS 2015
+      url: http://jds2015.sfds.asso.fr/
+  entries:
+    - type: Talk
+      title: Approche bayésienne non paramétrique pour la factorisation de matrice binaire à faible rang avec loi de puissance
+      url: http://jds2015.sfds.asso.fr/prog/showabstract.php?id=209
+      links:
+        Paper: http://papersjds15.sfds.asso.fr/submission_209.pdf
+    - type: Talk
+      title: Compétitions d'apprentissage automatique avec le package R rchallenge
+      url: http://jds2015.sfds.asso.fr/prog/showabstract.php?id=211
+      links:
+        Paper: http://papersjds15.sfds.asso.fr/submission_2011.pdf
+        R code: soft.html#rchallenge
+
+- year: 2015
+  month: May
+  location: Basel, Switzerland
+  events:
+    - title: BAYES 2015
+      url: https://bayes-pharma.org/previous-conferences/bayes-2015/
+  entries:
+    - type: Invited talk
+      title: "Biips: Software for Bayesian Inference with Interacting Particle Systems"
+      links:
+        Slides: http://www.bayes-pharma.org/wp-content/uploads/2014/10/biips_bayespharma2015.pdf
+        Paper: https://arxiv.org/pdf/1412.3779.pdf
+        Software: soft.html#biips
+      
+- year: 2015
+  month: Apr.
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+ 
+- year: 2015
+  month: Mar.
+  location: Bordeaux, France
+  events:
+    - title: Groupe de Travail Proba-Stat
+      url: http://www.math.u-bordeaux1.fr/~arichou/groupedetravail.html
+  entries:
+    - type: Talk
+      title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs
+      links:
+        Paper: pub.html#todeschini2013probabilistic
+        Matlab code: soft.html#hasi
+
+- year: 2015
+  month: Jan.
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+
+- year: 2014
+  month: Dec.
+  location: Montreal, Canada
+  events:
+    - title: NIPS 2014
+      url: https://nips.cc/Conferences/2014/
+
+- year: 2014
+  month: Nov.
+  location: Montpellier, France
+  events:
+    - title: Rencontres AppliBUGS
+      url: http://w3.jouy.inra.fr/unites/miaj/public/matrisq/Contacts/applibugs.rencontres.html
+  entries:
+    - type: Invited talk
+      title: "Biips software: Inference in Bayesian graphical models with sequential Monte Carlo methods"
+      links:
+        Slides: /files/biips_applibugs2014.pdf
+        Paper: https://arxiv.org/pdf/1412.3779.pdf
+        Software: soft.html#biips
+ 
+- year: 2014
+  month: Oct.
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+    - title: Probabilistic Programming Reading Group
+  entries:
+    - type: Talk
+      title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
+      links:
+        Slides: /files/biips_oxford_pprg2014.pdf
+        Paper: https://arxiv.org/pdf/1412.3779.pdf
+        Software: soft.html#biips
         
-  - year: 2015
-    month: Apr.
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-   
-  - year: 2015
-    month: Mar.
-    location: Bordeaux, France
-    events:
-      - title: Groupe de Travail Proba-Stat
-        url: http://www.math.u-bordeaux1.fr/~arichou/groupedetravail.html
-    content:
-      - type: Talk
-        title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs
-        links:
-          Paper: pub.html#todeschini2013probabilistic
-          Matlab code: soft.html#hasi
+- year: 2014
+  month: Aug.
+  location: Geneva, Switzerland
+  events:
+    - title: COMPSTAT 2014
+      url: http://compstat2014.org/
+  entries:
+    - type: Invited talk
+      title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
+      links:
+        Slides: /files/biips_compstat2014.pdf
+        Paper: https://arxiv.org/pdf/1412.3779.pdf
+        Software: soft.html#biips    
+        
+- year: 2014
+  month: Jun.
+  location: Rennes, France
+  events:
+    - title: JdS 2014
+      url: http://jds2014.sfds.asso.fr/
+  entries:
+    - type: Talk
+      title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs
+      url: http://jds2014.sfds.asso.fr/prog/showabstract.php?id=235
+      links:
+        Slides: /files/TodeschiniCaronChavent_jds2014_slides.pdf
+        Paper: http://papersjds14.sfds.asso.fr/submission_235.pdf
+        Matlab code: soft.html#hasi
+ 
+- year: 2014
+  month: May
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
   
-  - year: 2015
-    month: Jan.
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-
-2014:
-  - year: 2014
-    month: Dec.
-    location: Montreal, Canada
-    events:
-      - title: NIPS 2014
-        url: https://nips.cc/Conferences/2014/
-
-  - year: 2014
-    month: Nov.
-    location: Montpellier, France
-    events:
-      - title: Rencontres AppliBUGS
-        url: http://w3.jouy.inra.fr/unites/miaj/public/matrisq/Contacts/applibugs.rencontres.html
-    content:
-      - type: Invited talk
-        title: "Biips software: Inference in Bayesian graphical models with sequential Monte Carlo methods"
-        links:
-          Slides: /doc/biips_applibugs2014.pdf
-          Paper: https://arxiv.org/pdf/1412.3779.pdf
-          Software: soft.html#biips
-   
-  - year: 2014
-    month: Oct.
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-      - title: Probabilistic Programming Reading Group
-    content:
-      - type: Talk
-        title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
-        links:
-          Slides: /doc/biips_oxford_pprg2014.pdf
-          Paper: https://arxiv.org/pdf/1412.3779.pdf
-          Software: soft.html#biips
-          
-  - year: 2014
-    month: Aug.
-    location: Geneva, Switzerland
-    events:
-      - title: COMPSTAT 2014
-        url: http://compstat2014.org/
-    content:
-      - type: Invited talk
-        title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
-        links:
-          Slides: /doc/biips_compstat2014.pdf
-          Paper: https://arxiv.org/pdf/1412.3779.pdf
-          Software: soft.html#biips    
-          
-  - year: 2014
-    month: Jun.
-    location: Rennes, France
-    events:
-      - title: JdS 2014
-        url: http://jds2014.sfds.asso.fr/
-    content:
-      - type: Talk
-        title: Complétion de matrice de rang faible probabiliste à l’aide d’algorithmes de régularisation spectrale adaptatifs
-        url: http://jds2014.sfds.asso.fr/prog/showabstract.php?id=235
-        links:
-          Slides: /doc/TodeschiniCaronChavent_jds2014_slides.pdf
-          Paper: http://papersjds14.sfds.asso.fr/submission_235.pdf
-          Matlab code: soft.html#hasi
-   
-  - year: 2014
-    month: May
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-    
-  - year: 2014
-    month: Apr.
-    location: Paris, France
-    events:
-      - title: Statlearn 2014
-        url: http://statlearn.sfds.asso.fr/
-    content:
-      - type: Poster
-        title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
-        links:
-          Paper: pub.html#todeschini2013probabilistic
-          Poster: /doc/TodeschiniCaronChavent_NIPS2013_poster.pdf
-          Matlab code: soft.html#hasi
-    
-  - year: 2014
-    month: Jan.
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-      - title: Computational Statistics Reading Group
-        url: http://www.louisaslett.com/CompStatReadingGroup/
-    content:
-      - type: Talk
-        title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
-        links:
-          Slides: /doc/Slides_lowrank_oxford.pdf
-          Paper: pub.html#todeschini2013probabilistic
-          Matlab code: soft.html#hasi
-          
-  - year: 2014
-    month: Jan.
-    location: Chamonix-Mont-Blanc, France
-    events:
-      - title: MCMSki IV
-        url: http://www.pages.drexel.edu/~mwl25/mcmski/index.html
-    content:
-      - type: Invited talk
-        title: Recent Developments in Software for MCMC
-        url: http://www.pages.drexel.edu/~mwl25/mcmski/program.html#inv9
-        links:
-          Slides: /doc/biips_mcmski.pdf
-      - type: Poster
-        title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
-        url: http://mcmskabs.wordpress.com/2013/11/18/poster-abstract-2/
-        links:
-          Poster: /doc/biips-poster-mcmski.pdf
-          Software: soft.html#biips
-
-2013:
-  - year: 2013
-    month: Dec.
-    location: Lake Tahoe, USA
-    events:
-      - title: NIPS 2013
-        url: http://nips.cc/Conferences/2013/
-      - title: Large Scale Matrix Analysis and Inference Workshop
-        url: http://stanford.edu/~rezab/nips2013workshop/
-    content:
-      - type: Poster
-        title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
-        url: https://proceedings.neurips.cc/paper/2013/hash/5ef0b4eba35ab2d6180b0bca7e46b6f9-Abstract.html
-        links:
-          Paper: pub.html#todeschini2013probabilistic
-          Poster: /doc/TodeschiniCaronChavent_NIPS2013_poster.pdf
-          Matlab code: soft.html#hasi
+- year: 2014
+  month: Apr.
+  location: Paris, France
+  events:
+    - title: Statlearn 2014
+      url: http://statlearn.sfds.asso.fr/
+  entries:
+    - type: Poster
+      title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
+      links:
+        Paper: pub.html#todeschini2013probabilistic
+        Poster: /files/TodeschiniCaronChavent_NIPS2013_poster.pdf
+        Matlab code: soft.html#hasi
+  
+- year: 2014
+  month: Jan.
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+    - title: Computational Statistics Reading Group
+      url: http://www.louisaslett.com/CompStatReadingGroup/
+  entries:
+    - type: Talk
+      title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
+      links:
+        Slides: /files/Slides_lowrank_oxford.pdf
+        Paper: pub.html#todeschini2013probabilistic
+        Matlab code: soft.html#hasi
         
-  - year: 2013
-    month: Oct.
-    location: Oxford, UK
-    events:
-      - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
-        
-  - year: 2013
-    month: Aug.
-    location: Aussois, France
-    events:
-      - title: Rencontres des Jeunes Statisticiens
-        url: http://rencontres-jeunes-statisticiens.sfds.asso.fr/
-    content:
-      - type: Talk
-        title: Bayesian Adaptive Spectral Regularization Algorithms for Low Rank Matrix Completion
+- year: 2014
+  month: Jan.
+  location: Chamonix-Mont-Blanc, France
+  events:
+    - title: MCMSki IV
+      url: http://www.pages.drexel.edu/~mwl25/mcmski/index.html
+  entries:
+    - type: Invited talk
+      title: Recent Developments in Software for MCMC
+      url: http://www.pages.drexel.edu/~mwl25/mcmski/program.html#inv9
+      links:
+        Slides: /files/biips_mcmski.pdf
+    - type: Poster
+      title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
+      url: http://mcmskabs.wordpress.com/2013/11/18/poster-abstract-2/
+      links:
+        Poster: /files/biips-poster-mcmski.pdf
+        Software: soft.html#biips
 
-2012:
-  - year: 2012
-    month: Oct.
-    location: Ecole Polytechnique, Palaiseau, France
-    events:
-      - title: Workshop Sequential Monte Carlo methods and Efficient simulation in Finance
-        url: https://project.inria.fr/SMCMESF/
-    content:
-      - type: Talk
-        title: "Biips: Statistical learning in financial models"
-        links:
-          Slides: /doc/biips-smcmesf.pdf
-          Software: soft.html#biips
-          
-  - year: 2012
-    month: Jul.
-    location: Bordeaux, France
-    events:
-      - title: Rencontres R 2012
-        url: http://r2012.bordeaux.inria.fr/index.html
-    content:
-      - type: Talk
-        title: "Biips : un logiciel pour l'inférence bayésienne dans les modèles graphiques utilisant des méthodes de Monte Carlo séquentielles"
-        links:
-          Slides: /doc/biips-rencontres-r.pdf
-          Software: soft.html#biips
-          
-  - year: 2012
-    month: Jun.
-    location: Kyoto/Tokyo, Japan
-    events:
-      - title: ISBA 2012
-        url: http://www.computer-services.e.u-tokyo.ac.jp/p/isba2012/
-      - title: BayesComp Workshop
-    content:
-      - type: Poster
-        title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
-        links:
-          Poster: /doc/biips-poster-isba.pdf
-          Software: soft.html#biips
-          
-  - year: 2012
-    month: Apr.
-    location: Paris, France
-    events:
-      - title: Rencontres Inria Industries Finance
-    content:
-      - type: Demo
-        title: "Biips: Apprentissage statistique dans les modèles financiers"
-        links:
-          Slides: /doc/ALEA_RII_2.pdf
-          Software: soft.html#biips
+- year: 2013
+  month: Dec.
+  location: Lake Tahoe, USA
+  events:
+    - title: NIPS 2013
+      url: http://nips.cc/Conferences/2013/
+    - title: Large Scale Matrix Analysis and Inference Workshop
+      url: http://stanford.edu/~rezab/nips2013workshop/
+  entries:
+    - type: Poster
+      title: Probabilistic Low-Rank Matrix Completion with Adaptive Spectral Regularization Algorithms
+      url: https://proceedings.neurips.cc/paper/2013/hash/5ef0b4eba35ab2d6180b0bca7e46b6f9-Abstract.html
+      links:
+        Paper: pub.html#todeschini2013probabilistic
+        Poster: /files/TodeschiniCaronChavent_NIPS2013_poster.pdf
+        Matlab code: soft.html#hasi
+      
+- year: 2013
+  month: Oct.
+  location: Oxford, UK
+  events:
+    - title: Visiting [F. Caron](https://www.stats.ox.ac.uk/~caron/) at the Dept. of Statistics
+      
+- year: 2013
+  month: Aug.
+  location: Aussois, France
+  events:
+    - title: Rencontres des Jeunes Statisticiens
+      url: http://rencontres-jeunes-statisticiens.sfds.asso.fr/
+  entries:
+    - type: Talk
+      title: Bayesian Adaptive Spectral Regularization Algorithms for Low Rank Matrix Completion
+
+- year: 2012
+  month: Oct.
+  location: Ecole Polytechnique, Palaiseau, France
+  events:
+    - title: Workshop Sequential Monte Carlo methods and Efficient simulation in Finance
+      url: https://project.inria.fr/SMCMESF/
+  entries:
+    - type: Talk
+      title: "Biips: Statistical learning in financial models"
+      links:
+        Slides: /files/biips-smcmesf.pdf
+        Software: soft.html#biips
+        
+- year: 2012
+  month: Jul.
+  location: Bordeaux, France
+  events:
+    - title: Rencontres R 2012
+      url: http://r2012.bordeaux.inria.fr/index.html
+  entries:
+    - type: Talk
+      title: "Biips : un logiciel pour l'inférence bayésienne dans les modèles graphiques utilisant des méthodes de Monte Carlo séquentielles"
+      links:
+        Slides: /files/biips-rencontres-r.pdf
+        Software: soft.html#biips
+        
+- year: 2012
+  month: Jun.
+  location: Kyoto/Tokyo, Japan
+  events:
+    - title: ISBA 2012
+      url: http://www.computer-services.e.u-tokyo.ac.jp/p/isba2012/
+    - title: BayesComp Workshop
+  entries:
+    - type: Poster
+      title: "Biips: A software for inference in Bayesian graphical models with sequential Monte Carlo methods"
+      links:
+        Poster: /files/biips-poster-isba.pdf
+        Software: soft.html#biips
+        
+- year: 2012
+  month: Apr.
+  location: Paris, France
+  events:
+    - title: Rencontres Inria Industries Finance
+  entries:
+    - type: Demo
+      title: "Biips: Apprentissage statistique dans les modèles financiers"
+      links:
+        Slides: /files/ALEA_RII_2.pdf
+        Software: soft.html#biips

@@ -2,18 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/atom.xml" | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
   
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <!-- Icons -->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico?" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="128x128" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico?" | relative_url }}">
+  <link rel="apple-touch-icon" sizes="128x128" href="{{ "/apple-touch-icon.png" | relative_url }}">
   
 
   <title>
@@ -28,14 +28,15 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
   
   <!--Fonts-->
   {% include fonts.html %}
   
   {% if page.mathjax %}
   <!--Mathjax-->
-  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   {% endif %}
   
   {% if site.ganalytics_id %}

@@ -5,10 +5,9 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         {% if site.copyright %}
-        Copyright <i class="fa fa-copyright"></i> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+        &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}
         {% endif %}
         <ul class="contact-list">
-          <li>{{ site.author.name }}</li>
           <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {% if site.author.phone %}
           <li>
@@ -20,26 +19,26 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          <li class="fs-150">
+          <li style="vertical-align: top;">
             {% if site.author.github_url %}
-            {% include fa-url.html icon="github" url=site.author.github_url %}
+            {% include fa-url.html icon="github-square fa-2x" url=site.author.github_url style="margin:.1em" %}
             {% endif %}
             {% if site.author.bitbucket_url %}
-            {% include fa-url.html icon="bitbucket" url=site.author.bitbucket_url %}
+            {% include fa-url.html icon="bitbucket-square fa-2x" url=site.author.bitbucket_url style="margin:.1em" %}
             {% endif %}
             {% if site.author.twitter_url %}
-            {% include my-fa-url.html icon="twitter-square" url=site.author.twitter_url %}
+            {% include my-fa-url.html icon="twitter-square fa-2x" url=site.author.twitter_url style="margin:.1em" %}
             {% endif %}
             {% if site.author.linkedin_url %}
-            {% include my-fa-url.html icon="linkedin-square" url=site.author.linkedin_url %}
+            {% include my-fa-url.html icon="linkedin-square fa-2x" url=site.author.linkedin_url style="margin:.1em" %}
             {% endif %}
           </li>
-          <li class="fs-150">
+          <li>
             {% if site.author.researchgate_url %}
-            {% include ai-url.html icon="researchgate-square" url=site.author.researchgate_url %}
+            {% include ai-url.html icon="researchgate-square ai-2x" url=site.author.researchgate_url style="margin:.1em" %}
             {% endif %}
             {% if site.author.googlescholar_url %}
-            {% include ai-url.html icon="google-scholar-square" url=site.author.googlescholar_url %}
+            {% include ai-url.html icon="google-scholar-square ai-2x" url=site.author.googlescholar_url style="margin:.1em" %}
             {% endif %}
           </li>
         </ul>

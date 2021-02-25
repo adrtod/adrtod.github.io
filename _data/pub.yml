@@ -35,7 +35,7 @@ International journals and conference proceedings:
     links:
       Paper: https://proceedings.neurips.cc/paper/2013/file/5ef0b4eba35ab2d6180b0bca7e46b6f9-Paper.pdf
       Supplemental: https://proceedings.neurips.cc/paper/2013/file/5ef0b4eba35ab2d6180b0bca7e46b6f9-Supplemental.zip
-      Poster: /doc/TodeschiniCaronChavent_NIPS2013_poster.pdf
+      Poster: /files/TodeschiniCaronChavent_NIPS2013_poster.pdf
       Matlab code: soft.html#hasi
 
 National conferences:
@@ -45,8 +45,8 @@ National conferences:
       url: http://jds2018.sfds.asso.fr/
       location: Saclay, France
     links:
-      Paper: /doc/todeschini-amies-jds2018_v2.pdf
-      Slides: /doc/pres_jds2018.pdf
+      Paper: /files/todeschini-amies-jds2018_v2.pdf
+      Slides: /files/pres_jds2018.pdf
   
   - bibtexkey: todeschini2015approche
     conference:
@@ -70,5 +70,5 @@ National conferences:
       location: Rennes, France
     links:
       Paper: http://papersjds14.sfds.asso.fr/submission_235.pdf
-      Slides: /doc/TodeschiniCaronChavent_jds2014_slides.pdf
+      Slides: /files/TodeschiniCaronChavent_jds2014_slides.pdf
       Matlab code: soft.html#hasi

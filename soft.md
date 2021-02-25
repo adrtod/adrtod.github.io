@@ -19,4 +19,4 @@ navpos: 4
 
 # rchallenge
 
-[A simple datascience challenge system using R Markdown and Dropbox](http://adrtod.github.io/rchallenge/)
+[A simple datascience challenge system using R Markdown and Dropbox](https://adrtod.github.io/rchallenge/)

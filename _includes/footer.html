@@ -17,49 +17,59 @@
         </ul>
       </div>
 
+      {% if site.author.address %}
       <div class="footer-col footer-col-2">
+      {% else %}
+      <div class="footer-col footer-col-2">
+      </div>
+      <div class="footer-col footer-col-3" style="text-align: right;">
+      {% endif %}
         <ul class="social-media-list">
           <li style="vertical-align: top;">
+            {% if site.author.linkedin_url %}
+            {% include my-fa-url.html icon="linkedin-square fa-2x" url=site.author.linkedin_url style="margin:.1em" %}
+            {% endif %}
+            {% if site.author.twitter_url %}
+            {% include my-fa-url.html icon="twitter-square fa-2x" url=site.author.twitter_url style="margin:.1em" %}
+            {% endif %}
             {% if site.author.github_url %}
             {% include fa-url.html icon="github-square fa-2x" url=site.author.github_url style="margin:.1em" %}
             {% endif %}
             {% if site.author.bitbucket_url %}
             {% include fa-url.html icon="bitbucket-square fa-2x" url=site.author.bitbucket_url style="margin:.1em" %}
             {% endif %}
-            {% if site.author.twitter_url %}
-            {% include my-fa-url.html icon="twitter-square fa-2x" url=site.author.twitter_url style="margin:.1em" %}
-            {% endif %}
-            {% if site.author.linkedin_url %}
-            {% include my-fa-url.html icon="linkedin-square fa-2x" url=site.author.linkedin_url style="margin:.1em" %}
-            {% endif %}
+          {% if site.author.address %}
           </li>
           <li>
+          {% endif %}
             {% if site.author.researchgate_url %}
-            {% include ai-url.html icon="researchgate-square ai-2x" url=site.author.researchgate_url style="margin:.1em" %}
+            {% include ai-url.html icon="researchgate-square" url=site.author.researchgate_url style="margin:.1em; font-size:190%;" %}
             {% endif %}
             {% if site.author.googlescholar_url %}
-            {% include ai-url.html icon="google-scholar-square ai-2x" url=site.author.googlescholar_url style="margin:.1em" %}
+            {% include ai-url.html icon="google-scholar-square" url=site.author.googlescholar_url style="margin:.1em; font-size:190%;" %}
             {% endif %}
           </li>
         </ul>
         
       </div>
 
+      {% if site.author.address %}
       <div class="footer-col footer-col-3">
         <ul class="contact-list">
-          <li>{{ site.author.adress }}</li>
+          <li>{{ site.author.address }}</li>
         </ul>
       </div>
+      {% endif %}
     </div>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-1" style="text-align: left;">
         {% include img-url.html obj=site.inria %}
       </div>
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-2" style="text-align: center;">
         {% include img-url.html obj=site.imb %}
       </div>
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3" style="text-align: right;">
         {% include img-url.html obj=site.univbdx %}
       </div>
     </div>

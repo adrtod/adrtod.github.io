@@ -1,7 +1,7 @@
-# File automatically generated from _data/todeschini.bib
+# File automatically generated from _data/todeschini.bib on 2024-10-10 13:11:17.01447
 # Do NOT edit.
 # To regenerate, run:
-#   Rscript _R/bibtex.r
+#   Rscript _bibtex.r
 
 todeschini2020exchangeable:
   bibtype: Article
@@ -45,6 +45,8 @@ todeschini2018approche:
     de scores
   booktitle: 50èmes Journées de Statistique de la SFdS
   year: '2018'
+  address: Saclay, France
+  month: May
   organization: Société Française de Statistique
   abstract: Scorelab has developed the Global Wine Score, a score aggregator used
     to evaluate and compare all the wines in the world. It is based on the ratings
@@ -63,6 +65,7 @@ todeschini2016probabilistic:
     and networks
   school: University of Bordeaux
   year: '2016'
+  type: phdthesis
   month: Nov
   abstract: We propose two novel approaches for recommender systems and networks.
     In the first part, we first give an overview of recommender systems and concentrate
@@ -100,6 +103,7 @@ todeschini2015approche:
     à faible rang avec loi de puissance
   booktitle: 47èmes Journées de Statistique de la SFdS
   year: '2015'
+  address: Lille, France
   month: Jun
   organization: Société Française de Statistique
   abstract: We introduce a low-rank Bayesian nonparametric (BNP) model for bipartite
@@ -123,6 +127,7 @@ todeschini2015competitions:
   title: Compétitions d’apprentissage automatique avec le package R rchallenge
   booktitle: 47èmes Journées de Statistique de la SFdS
   year: '2015'
+  address: Lille, France
   month: Jun
   organization: Société Française de Statistique
   abstract: In machine learning, empirical performance on real data are crucial in
@@ -141,7 +146,7 @@ todeschini2015competitions:
     easily on a personal computer.
   url: https://hal.inria.fr/hal-01157147
 todeschini2014biips:
-  bibtype: Article
+  bibtype: Misc
   author:
   - given: Adrien
     family: Todeschini
@@ -154,20 +159,20 @@ todeschini2014biips:
   - given: Pierre
     family: Del Moral
   title: 'Biips: Software for Bayesian Inference with Interacting Particle Systems'
-  journal: arXiv preprint arXiv:1412.3779
-  year: '2014'
   month: Dec
-  abstract: 'Biips is a software platform for automatic Bayesian inference with interacting
+  year: '2014'
+  abstract: Biips is a software platform for automatic Bayesian inference with interacting
     particle systems. Biips allows users to define their statistical model in the
     probabilistic programming BUGS language, as well as to add custom functions or
     samplers within this language. Then it runs sequential Monte Carlo based algorithms
     (particle filters, particle independent Metropolis-Hastings, particle marginal
     Metropolis-Hastings) in a black-box manner so that to approximate the posterior
     distribution of interest as well as the marginal likelihood. The software is developed
-    in C++ with interfaces with the softwares R, Matlab and Octave. '
+    in C++ with interfaces with the softwares R, Matlab and Octave.
+  journal: arXiv preprint arXiv:1412.3779
   url: https://arxiv.org/abs/1412.3779
 minvielle2014particle:
-  bibtype: Article
+  bibtype: InProceedings
   author:
   - given: Pierre
     family: Minvielle
@@ -178,13 +183,13 @@ minvielle2014particle:
   - given: Pierre
     family: Del Moral
   title: Particle MCMC for Bayesian Microwave Control
-  journal: 'Journal of Physics: Conference Series'
+  booktitle: 'Journal of Physics: Conference Series'
   year: '2014'
   volume: '542'
   number: '1'
   pages: '012007'
   month: Oct
-  publisher: IOP Publishing
+  publisher: IOP Publishing Ltd
   abstract: We consider the problem of local radioelectric property estimation from
     global electromagnetic scattering measurements. This challenging ill-posed high
     dimensional inverse problem can be explored by intensive computations of a parallel
@@ -197,6 +202,8 @@ minvielle2014particle:
     from parallelization to the original introduction of efficient sequential data
     assimilation techniques, widely used in weather forecasting, oceanography, geophysics,
     etc.
+  doi: 10.1088/1742-6596/542/1/012007
+  journal: 'Journal of Physics: Conference Series'
   url: https://doi.org/10.1088/1742-6596/542/1/012007
 todeschini2014completion:
   bibtype: InProceedings
@@ -211,6 +218,7 @@ todeschini2014completion:
     de régularisation spectrale adaptatifs
   booktitle: 46èmes Journées de Statistique de la SFdS
   year: '2014'
+  address: Rennes, France
   month: Jun
   organization: Société Française de Statistique
   abstract: Nous proposons une nouvelle classe d'algorithmes pour la complétion de
@@ -237,10 +245,7 @@ todeschini2013probabilistic:
   booktitle: Advances in Neural Information Processing Systems
   year: '2013'
   editor:
-  - given:
-    - C.
-    - J.
-    - C.
+  - given: C.J.
     family: Burges
   - given: L.
     family: Bottou
@@ -248,11 +253,10 @@ todeschini2013probabilistic:
     family: Welling
   - given: Z.
     family: Ghahramani
-  - given:
-    - K.
-    - Q.
+  - given: K.Q.
     family: Weinberger
   volume: '26'
+  address: Lake Tahoe, Nevada, USA
   publisher: Curran Associates, Inc.
   abstract: We propose a novel class of algorithms for low rank matrix completion.
     Our approach builds on novel penalty functions on the singular values of the low

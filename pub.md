@@ -15,3 +15,4 @@ navpos: 2
 
 - [BibTeX](/files/todeschini.bib)
 - Google Scholar {% include ai-url.html icon="google-scholar-square" style="font-size:150%; margin:.1em" url=site.author.googlescholar_url %}
+- Zotero  {% include ai-url.html icon="zotero-square" style="font-size:150%; margin:.1em" url=site.author.zotero_url %}

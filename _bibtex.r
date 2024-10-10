@@ -24,11 +24,12 @@ bib <- bib %>%
   modify(~modify_if(., ~inherits(., "person"), compact_person, 
                     .else = str_latex))
 
-comment <- "# File automatically generated from _data/todeschini.bib
-# Do NOT edit.
+comment <- paste0(
+"# File automatically generated from _data/todeschini.bib on ", Sys.time(),"\n", 
+"# Do NOT edit.
 # To regenerate, run:
 #   Rscript _bibtex.r
-" 
+")
 
 comment %>% 
   c(as.yaml(bib)) %>% 

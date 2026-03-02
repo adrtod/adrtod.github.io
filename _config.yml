@@ -32,8 +32,6 @@ lang: en
 author: 
   name: Adrien Todeschini
   email: adrien.todeschini [at] gmail.com
-  #address: 59 Rue Bourgès <br/> Entrée 1 Appt 15 <br/> 33400 Talence, France
-  #phone: +33 6 7058 1450
   twitter_url:  https://twitter.com/adrtod/
   github_url:  https://github.com/adrtod/
   #bitbucket_url:  https://bitbucket.org/adrtod/
@@ -41,7 +39,7 @@ author:
   researchgate_url:  https://www.researchgate.net/profile/Adrien_Todeschini
   googlescholar_url:  https://scholar.google.fr/citations?user=ivSX6d3wzKIC&hl=en
   zotero_url:  https://www.zotero.org/adrtod
-  cv_url:  https://www.dropbox.com/s/rcp5acuf91fy07b/CV_AdrienTodeschini_2023_en.pdf?dl=1
+  cv_url:  https://www.dropbox.com/scl/fi/id4uz12yl06lxtu3yyx3m/CV_AdrienTodeschini_2026_en.pdf?rlkey=ytyik2s77tiak70u5t685xun9&st=66ky8bkt&dl=1
 
 # institutions
 inria:
